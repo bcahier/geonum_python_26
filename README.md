@@ -46,7 +46,24 @@ git clone https://github.com/bcahier/geonum_python_26.git
 
 ### 2.2 Configurer l'environnement avec toutes les dépendances
 
-* Créez un nouvel environnement appelé `geonum-velov-py313`
+> [!TIP]
+> **Où taper les commandes `conda` ?**
+>
+> Le plus simple est d'utiliser le terminal fourni avec conda :
+> * **Windows** : ouvrez **Anaconda Prompt** (ou **Miniforge Prompt**) depuis le menu Démarrer.
+> * **Mac / Linux** : le terminal classique fonctionne en général directement après l'installation.
+>
+> Si vous préférez utiliser un autre terminal (PowerShell, cmd, terminal de VS Code, Git Bash…) et que la commande `conda` n'est pas reconnue, ouvrez **une fois** Anaconda Prompt et lancez :
+>
+> ```bash
+> conda init --all
+> ```
+>
+> Fermez puis rouvrez votre terminal : `conda` y fonctionne désormais.
+>
+
+
+* Créez un nouvel environnement appelé `geonum-velov-py313` 
 
 ```bash
 conda create -n geonum-velov-py313 python=3.13
