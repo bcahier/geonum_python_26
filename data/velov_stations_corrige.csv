@@ -1,0 +1,458 @@
+Unnamed: 0,achevement,adresse1,adresse2,code_insee,commune,gid,idstation,lat,lon,nbbornettes,nom,numdansarrondissement,ouverte,pole,stationbonus,validite
+0,Monté,"Face 140, Rue Bataille",,69388.0,Lyon 8e Arrondissement,1,8050,45.73626799350977,4.879737377129184,18,Bataille / Krüger,,True,Logements,,Validé
+1,Monté,"41, Quai Rambaud",Angle Rue Hrant Dink,69382.0,Lyon 2e Arrondissement,31,2009,45.739543264075856,4.815130865979556,26,Confluence / Docks,9.0,True,Confluence - Les Docks,,Validé
+2,Monté,"Face 40, Quai Chauveau",Angle Pont Général Koenig,69389.0,Lyon 9e Arrondissement,32,9011,45.76978221217475,4.812676219585405,19,Conservatoire,11.0,True,Conservatoire National de Musique,,Validé
+3,Monté,"111, Rue Paul Bert",Face Place des Martyrs de la Résistance,69383.0,Lyon 3e Arrondissement,60,3037,45.75710253588711,4.8534817417253455,21,Paul Bert / Garibaldi,37.0,True,Maillage - Piscine Garibaldi - MdL,,Validé
+4,Monté,"Face 1, Rue Valentin Haüy",,69266.0,Villeurbanne,20,10110,45.759574361518936,4.882734546527102,24,Mémoire et Société,110.0,True,Centre Mémoire et Société - Itinéraire cyclable,,Validé
+5,Monté,"3, Place Gailleton",,69382.0,Lyon 2e Arrondissement,16,2012,45.7534495026384,4.833364551802372,16,Gailleton,12.0,True,Commerces - Pont de l'Université - Logements,,Validé
+6,Monté,"27, Rue Emile Bertrand",,69275.0,Décines-Charpieu,230,13001,45.771873329654014,4.955766787611089,20,Décines - Centre,,True,Meyzieu Tram T3,,Validé
+7,Monté,Place Lebret,Angle Route de Vienne,69388.0,Lyon 8e Arrondissement,19,8011,45.73565038813955,4.853042654470077,14,Place Lebret,11.0,True,Coeur quartier,,Validé
+8,Monté,"27, Rue Maurice Flandin",,69383.0,Lyon 3e Arrondissement,35,3081,45.76067169621722,4.863073881594033,28,Part-Dieu / Francfort,81.0,True,Gare SNCF,,Validé
+9,Monté,"49, Avenue Georges Clémenceau",,69204.0,Saint-Genis-Laval,273,19001,45.69781200190445,4.794772849716076,12,St Genis Laval - Médiathèque,,True,Médiathèque,,Validé
+10,Monté,Place de la Gare,Angle Avenue de la Gare,69003.0,Albigny-sur-Saône,276,33001,45.87499349255458,4.833002136082279,18,Albigny - Gare,,True,Gare d'Alibigny sur Saône,,Validé
+11,Monté,Rue Maurice Audin,Angle Place de la Nation,69256.0,Vaulx-en-Velin,259,12004,45.77817181629516,4.92051671129779,30,Vaulx - Hôtel de ville,,True,Mairie - Planétarium - Centre ville,,Validé
+12,Monté,"49, Cours de la République",Angle Anatole France,69266.0,Villeurbanne,427,10028,45.76751737834845,4.874010554911909,24,Ecole de musique,28.0,True,Ecole Nationale de Musique de Danse et d'Art Dramatique de Villeurbanne,,Validé
+13,Monté,"Face 56, Boulevard de l'Yzeron",Angle Boulevard Emile Zola,69149.0,Oullins,373,20003,45.720157776943545,4.7983317319214045,24,Oullins - Pont Blanc,,True,Commerces - Logements,,Validé
+14,Monté,"37, Rue Sébastien Gryphe",Angle Rue Montesquieu,69387.0,Lyon 7e Arrondissement,13,7036,45.751911439328126,4.843786404691111,25,Gryphe / Montesquieu,65.0,True,Logements,,Validé
+15,Monté,Place Ennemond Fousseret,Angle Quai Romain Rolland et Quai de Bondy,69385.0,Lyon 5e Arrondissement,21,5009,45.7646815056886,4.8289833265225175,16,Place Ennemond Fousseret,9.0,True,Vieux Lyon,,Validé
+16,Monté,Place Gerson,A proximité du Quai Pierre Size,69385.0,Lyon 5e Arrondissement,26,5029,45.767054455158416,4.8270475070641,20,Place Gerson,29.0,True,Vieux Lyon,,Validé
+17,Monté,"Face 74, Rue de la Part-Dieu",Angle Place Eugène Varlin,69383.0,Lyon 3e Arrondissement,418,3004,45.75964530885178,4.848266559708355,27,Bourse du Travail,4.0,True,Métro B - Bourse du Travail - Coeur de ville,,Validé
+18,Monté,"Face 1, Rue Marc-Antoine Petit",Angle place de l'Hippodrome et Cours Charlemagne,69382.0,Lyon 2e Arrondissement,310,2006,45.74558155219791,4.8235326732363095,24,Place de l'Hippodrome,6.0,True,Coeur quartier - Tram T21 T2,,Validé
+19,Monté,"33, Rue Terme",Angle Rue d'Algérie,69381.0,Lyon 1er Arrondissement,17,1001,45.76773468638724,4.832135062190833,16,Terreaux / Terme,1.0,True,Centre ville,,Validé
+20,Monté,"Face 414, Boulevard des Canuts",,69034.0,Caluire-et-Cuire,398,11001,45.7853551232955,4.832890750856502,21,Caluire - Gare de Cuire,1.0,True,Métro C - Centre quartier,,Validé
+21,Monté,Place Henri,"Face 5, Cours Docteur Long",69383.0,Lyon 3e Arrondissement,18,3051,45.748186906192544,4.880593958171215,13,Place Henri,51.0,True,Maillage,,Validé
+22,Monté,Place Chevalier de Saint-Georges,,69382.0,Lyon 2e Arrondissement,23,2019,45.73618158210351,4.815335028749903,20,Sucrière,,True,La Sucrière - Quai Rambaud,,Validé
+23,Monté,"4, Place Le Viste",Angle Rue de La République,69382.0,Lyon 2e Arrondissement,42,2001,45.757985099026186,4.834593821983846,18,Bellecour / République,1.0,True,"Métro A, D - Commerces - Centre ville",,Validé
+24,Monté,"29, Rue de la Bourse",,69381.0,Lyon 1er Arrondissement,2,1012,45.7658113822214,4.836895741420562,26,Ampère / Bourse,12.0,True,Lycée Ampère - Métro A,,Validé
+25,Monté,Place du Port Mouton,Quai Arloing,69389.0,Lyon 9e Arrondissement,6,9032,45.77382011796125,4.809560302964169,18,Place du Port Mouton,32.0,True,Centre ville,,Validé
+26,Monté,Rue de la Poulaillerie,Angle Rue de la République,69382.0,Lyon 2e Arrondissement,161,2030,45.764078281257845,4.8356127348451565,32,République / Poulaillerie,30.0,True,Commerces - Centre ville,,Validé
+27,Monté,"45, Rue Pierre Baratin",,69266.0,Villeurbanne,46,10035,45.7631590910976,4.900424936199088,16,Boiron Granger,35.0,True,Complexe sportif Boiron Granger,,Validé
+28,Monté,"1, Rue Stella",,69382.0,Lyon 2e Arrondissement,52,2015,45.7607097863305,4.836288972942045,27,République / Stella,15.0,True,Commerces - Parking - Centre ville,,Validé
+29,Monté,"117, Boulevard Yves Farge",Face Rue de Commandant Ayasse,69387.0,Lyon 7e Arrondissement,45,7007,45.73567388979864,4.827719155961223,20,Farge / Ayasse,52.0,True,Centre commercial - Logements - Itinéraire cyclable,,Validé
+30,Monté,"228, Avenue du Plateau",,69389.0,Lyon 9e Arrondissement,59,9050,45.7836371650721,4.794525308499564,12,Allée de l'Europe,50.0,True,Commerces - Marché - Logements,,Validé
+31,Monté,"Face 119, Avenue Maréchal de Saxe",,69383.0,Lyon 3e Arrondissement,61,3082,45.75756427401703,4.846118173435003,28,Saxe / Moncey,82.0,True,Coeur de quartier - DDE,,Validé
+32,Monté,Place de la Libération,Face à la Rue Auguste Tramier,69081.0,Écully,43,24001,45.77508907026221,4.778672916083735,12,Ecully - Mairie,,True,Centre Ecully - Mairie,,Validé
+33,Monté,Rue Philippe de Lassalle ,Angle Rue Anselme,69384.0,Lyon 4e Arrondissement,22,4006,45.77342962633458,4.821324736350713,23,Philippe de Lassalle,6.0,True,Logements,,Validé
+34,Monté,"2, Place Saint Jean",Angle rue Jean Carries,69385.0,Lyon 5e Arrondissement,68,5004,45.760483743915145,4.82656505039726,39,Saint-Jean,4.0,True,Funiculaire - Métro D - Coeur quartier - Vieux Lyon,,Validé
+35,Monté,"58, Rue de Sèze",Angle Rue Boileau,69386.0,Lyon 6e Arrondissement,39,6011,45.76840416839016,4.849496723784585,23,Mairie du 6ème,11.0,True,Mairie du 6ème,,Validé
+36,Monté,"Face 41, Route de Vienne",Angle Avenue Berthelot,69387.0,Lyon 7e Arrondissement,12,7023,45.74257950493406,4.850563755662176,15,Berthelot / Route de Vienne,23.0,True,Tram T2,,Validé
+37,Monté,"175, Avenue Jean Jaurès",Angle Rue Marie-Madeleine Fourcade,69387.0,Lyon 7e Arrondissement,34,7009,45.73751809736837,4.837508919917021,16,Jean Jaurès,9.0,True,Métro B - Logements,,Validé
+38,Monté,"34, Rue Hector Berlioz",Angle Rue Albert Chalinel,69389.0,Lyon 9e Arrondissement,4,9009,45.80116035624908,4.825419711524732,15,Berlioz / Chalinel,,True,Commerces - Logements,,Validé
+39,Monté,"19, Rue de Saint-Cloud",Place de l'Ecole,69387.0,Lyon 7e Arrondissement,28,7046,45.73014381139959,4.827818249566896,28,Place de l'Ecole ,46.0,True,ENS Science ,,Validé
+40,Monté,"Face 9, Place Saint Paul", ,69385.0,Lyon 5e Arrondissement,36,5005,45.766271737315904,4.827432122691038,23,Saint-Paul,5.0,True,Gare - Coeur quartier - Vieux Lyon,,Validé
+41,Monté,"Face 150, Cours Gambetta",,69383.0,Lyon 3e Arrondissement,44,3009,45.75025331192344,4.857925030063061,22,Musée Africain,9.0,True,Université Jean Moulin - Musée Africain - Commerces,,Validé
+42,Monté,"63, Rue Philippe de Lassalle",,69384.0,Lyon 4e Arrondissement,40,4042,45.78170010678527,4.820600046127589,16,Grégory Coupet,42.0,True,Stade - Cimetière,,Validé
+43,Monté,"30, Rue Renan",,69387.0,Lyon 7e Arrondissement,62,7055,45.746766225864775,4.842050699349506,16,Servant / Jaboulay,55.0,True,Métro B - Gare SNCF - Coeur quartier - Mairie,,Validé
+44,Monté,Place du Lac,,69383.0,Lyon 3e Arrondissement,57,3058,45.75888562231748,4.853767893854473,19,Place du Lac,58.0,True,MdL,,Validé
+45,Monté,"160, Boulevard de la Croix-Rousse",,69381.0,Lyon 1er Arrondissement,67,1036,45.77437161577287,4.832815008760464,17,Aveyron,36.0,True,Ecole - Renforcement 4022,,Validé
+46,Monté,"Face 3, Quai Victor Augagneur",,69383.0,Lyon 3e Arrondissement,94,3044,45.76196513013284,4.841053430766212,19,Quai Augagneur,44.0,True,Maillage - Habitat dense,,Validé
+47,Monté,"2, Rue Marcel-Gabriel Rivière",Angle Place de la République,69382.0,Lyon 2e Arrondissement,69,2035,45.7598862786648,4.835798799934592,23,Childebert / Rivière,35.0,True,Commerces - Hôtel Dieu - Parking - Centre ville,,Validé
+48,Monté,Place Joannès Ambre,Angle Grande Rue de la Croix-Rousse,69384.0,Lyon 4e Arrondissement,48,4011,45.78157551853793,4.8328577220510205,20,Place Joannès Ambre,11.0,True,Théâtre - Coeur quartier - Hôpital,,Validé
+49,Monté,"Face 1, Route de Genas",Angle Avenue du Progrès,69271.0,Chassieu,438,13500,45.73819164822463,4.969524904818018,12,Chassieu - Genas / Progrès,,True,Centre,,Validé
+50,Monté,"25, Rue Maryse Bastié",Angle Boulevard Jean XXIII,69388.0,Lyon 8e Arrondissement,41,8015,45.740325929659285,4.874194270683882,16,Jean XXIII,15.0,True,Tram T2 - Habitations,,Validé
+51,Monté,"4, Boulevard Eugène Deruelle",,69383.0,Lyon 3e Arrondissement,80,3087,45.76275115701257,4.852427772345072,20,Part-Dieu / Garibaldi,87.0,True,Centre Commercial - Bureaux - Renforcement n°2003,,Validé
+52,Monté,"76, Avenue des Frères Lumière",Angle Rue Villon,69388.0,Lyon 8e Arrondissement,66,8007,45.74501775564335,4.866432600909935,20,Frères Lumière,7.0,True,Commerces - Centre ville,,En projet ou en cours de validation
+53,Monté,"Face 102, Boulevard Yves Farge",,69259.0,Vénissieux,436,16011,45.69749891910125,4.858161483765518,12,Vénissieux - Farge / Clochettes,,True,"Collège, VL7",,Validé
+54,Monté,"6, Place Général Leclerc",Angle Avenue de Grande-Bretagne,69386.0,Lyon 6e Arrondissement,71,6002,45.777493295971205,4.844870726017666,40,Porte des Enfants du Rhône,2.0,True,Parc de la Tête d'Or,,Validé
+55,Monté,"Face 301, Avenue Andreï Sakharov",,69389.0,Lyon 9e Arrondissement,24,9051,45.78652473936644,4.797070902331012,12,Andréi Sakharov,51.0,True,Stade - Lycée - Logements,,Validé
+56,Monté,"5, Rue Masaryk",Angle Rue Chinard et Rue de Saint-Cyr,69389.0,Lyon 9e Arrondissement,58,9022,45.77862889892434,4.807120028097658,13,Masaryk / Saint-Cyr,22.0,True,Maillage,,Validé
+57,Monté,Place Raspail,Angle Rue Basse Combalot,69387.0,Lyon 7e Arrondissement,37,7056,45.75576871406806,4.840732789966439,22,Place Raspail,56.0,True,Commerces - Centre ville,,Validé
+58,Monté,"161, Avenue Jean Mermoz",Angle Boulevard Pinel,69388.0,Lyon 8e Arrondissement,47,8023,45.73077185091554,4.887370912680191,23,Mermoz / Pinel,,True,Logement - Métro D,,Validé
+59,Monté,"2, Rue Docteur Albéric Pont",,69385.0,Lyon 5e Arrondissement,82,5047,45.75344434357743,4.804400988845408,16,Albéric Pont,47.0,True,Gymnase - Terrain de sports- - Collège,,Validé
+60,Monté,"218, Avenue Jean Jaurès",,69387.0,Lyon 7e Arrondissement,64,7057,45.73472549025215,4.835496760764204,34,Jaurès / Bollier,57.0,True,ENS Lettres,,Validé
+61,Monté,"152, Rue Léon Blum",,69266.0,Villeurbanne,84,10116,45.76050400035128,4.905950974741405,16,Blum / Faÿs,116.0,True,Médipôle - Commerces - Lycée technique,,Validé
+62,Monté,"13, Promenade des Tuileries",,69244.0,Tassin-la-Demi-Lune,87,23001,45.76325603261275,4.778610065670553,12,Tassin - Tuileries,,True,Tassin-la-Demi-Lune,,Validé
+63,Monté,"2, Rue Greuze",,69266.0,Villeurbanne,210,10030,45.773849436808064,4.893844809557432,18,Greuze,30.0,True,Centre social - Logements,,Validé
+64,Monté,"2, Rue Georges Méliès",,69266.0,Villeurbanne,103,10054,45.77669671389965,4.859523051989239,24,Stalingrad / Méliès,54.0,True,Centre de congrès - Bureaux,,Validé
+65,Monté,Place de la Rochette,,69034.0,Caluire-et-Cuire,200,11003,45.79167018262126,4.823597023963748,20,Caluire - La Rochette,3.0,True,,,Validé
+66,Monté,"8, Rue Président Edouard Herriot",,69381.0,Lyon 1er Arrondissement,99,1021,45.76703564085933,4.834283729433294,11,Terreaux / Beaux Arts,21.0,True,Musée des Beaux Arts,,Validé
+67,Monté,Avenue Georges Pompidou,Sous le pont entre Boulevard Marius Vivier-Merle et Rue de la Villette,69383.0,Lyon 3e Arrondissement,434,3014,45.75893526998711,4.860158159286415,40,Part-Dieu / Pompidou,,True,Gare,,Validé
+68,Monté,"18, Place Tolozan",,69381.0,Lyon 1er Arrondissement,79,1022,45.76960058884276,4.837608436731077,36,Place Tolozan,22.0,True,"Opéra - Métro A, C - Mairie centrale",,Validé
+69,Monté,Rue Tabareau,Angle Boulevard de la Croix-Rousse,69384.0,Lyon 4e Arrondissement,97,4021,45.77408067055172,4.825159712198365,10,Tabareau,21.0,True,Logements,,Validé
+70,Monté,"Face 45, Rue de Gerland",,69387.0,Lyon 7e Arrondissement,72,7031,45.73981323490712,4.840307388622858,20,Jaurès / Gerland,31.0,True,Complexe sportif Benjamin Delessert,,Validé
+71,Monté,"Face 100, Avenue Barthélémy Buyer",,69385.0,Lyon 5e Arrondissement,56,5055,45.76218744931542,4.802631287671365,20,Buyer / Apollinaire,55.0,True,Centre commercial,,Validé
+72,Monté,"23, Place Carnot",Angle Rue Général Plessier,69382.0,Lyon 2e Arrondissement,115,2022,45.75122705219966,4.826890835486706,30,Place Carnot,22.0,True,Gare routière - Gare SNCF - Université Catholique de Lyon - Commerces,,Validé
+73,Monté,"Face 1, Place Commandant Arnaud",Angle Rue de Belfort,69384.0,Lyon 4e Arrondissement,81,4003,45.77972515198488,4.834707282451079,17,Place Commandant Arnaud,3.0,True,Coeur quartier,,Validé
+74,Monté,Place Camille Flammarion,Côté Rue Philippe de Lassalle,69384.0,Lyon 4e Arrondissement,113,4007,45.779326451678,4.8203031984414535,18,Place Flammarion,7.0,True,Maillage,,Validé
+75,Monté,"15, Quai Rambaud",,69382.0,Lyon 2e Arrondissement,91,2021,45.74591657758103,4.817173608520145,30,Rambaud / Ecole du Cinéma,,True,Stade Sony Anderson - Quai Rambaud - Ecole du Cinéma,,Validé
+76,Monté,"26, Rue Simone de Beauvoir",Angle Rue Clément Marot,69387.0,Lyon 7e Arrondissement,101,7017,45.73675724822,4.834138444502875,20,Beauvoir / Marot,,True,Gymnase - Logements,,Validé
+77,Monté,"51t, Rue de Saint-Cyr",,69389.0,Lyon 9e Arrondissement,104,9015,45.78283201986297,4.8073467764867095,30,Saint-Cyr,,True,Commerces,,Validé
+78,Monté,"2, Avenue de la Gare",Angle Quai de la Libération,69063.0,Collonges-au-Mont-d'Or,120,27001,45.830866328312354,4.846978507477477,24,Collonges - Gare,,True,Gare de Collonges au Mont d'Or,,Validé
+79,Monté,"1, Avenue des Frères Lumière",,69388.0,Lyon 8e Arrondissement,96,8052,45.747082607333176,4.860190851895354,16,Clinique Monplaisir,52.0,True,Renforcement 8001- Université,,Validé
+80,Monté,"Face 52, Rue Baraban",,69383.0,Lyon 3e Arrondissement,85,3101,45.762051668921295,4.868500350716071,20,Patinoire Baraban,101.0,True,Patinoire - Activités,,Validé
+81,Monté,Rue Montesquieu,Place des Cubes,69199.0,Saint-Fons,441,17005,45.7108573953032,4.861109204964516,15,Saint-Fons - Place des Cubes,,True,"Quartier, logements",,Validé
+82,Monté,"54, Avenue Marc Sangnier",,69266.0,Villeurbanne,118,10048,45.75914352306853,4.8759935561092,27,Place Marengo,48.0,True,Coeur quartier - Itinéraire cyclable,,Validé
+83,Monté,Rue Professeur Beauvisage,Angle Rue Commandant Pégout,69388.0,Lyon 8e Arrondissement,100,8006,45.729766354618114,4.868166581349364,20,Place du 8 Mai 1945,6.0,True,Coeur quartier - Itinéraires cyclables,,Validé
+84,Monté,"153, Rue de Créqui",Angle Cours Lafayette,69386.0,Lyon 6e Arrondissement,102,6033,45.76379601254368,4.847062000285458,15,Créqui / Lafayette,,True,Part-Dieu,,Validé
+85,Monté,"48, Rue de l'Université",,69387.0,Lyon 7e Arrondissement,109,7061,45.74848609041878,4.843142029669317,25,Jaurès / Université,61.0,True,Coeur de quartier - Commerces,,Validé
+86,Monté,"Face 10, Place de la Croix-Rousse",,69384.0,Lyon 4e Arrondissement,111,4022,45.7760751391037,4.832553920754393,21,Place de la Croix-Rousse,22.0,True,"Place de le Croix-Rousse - Commerces, Métro A",,Validé
+87,Monté,Place Stalingrad,"Face 3, Rue de l'Abbé Boisard",69387.0,Lyon 7e Arrondissement,116,7038,45.74969224227171,4.853364961404483,18,Place Stalingrad,38.0,False,Maillage,,Validé
+88,Monté,"54, Quai Perrache",,69382.0,Lyon 2e Arrondissement,442,2029,45.73952491069995,4.822523022521112,18,Perrache / De Pury,,True,Logements,,Validé
+89,Monté,Place du Château,,69383.0,Lyon 3e Arrondissement,121,3012,45.74951707886453,4.887285723219294,25,Place du Château,12.0,True,Coeur de quartier - Commerces,,Validé
+90,Monté,"Face 9, Rue Pierre Verger",Angle Rue Maryse Bastié,69388.0,Lyon 8e Arrondissement,119,8060,45.73168331489136,4.874127532610512,17,Santy / Beauvisage,60.0,True,Maillage,,Validé
+91,Monté,"Face 40, Avenue Leclerc",,69387.0,Lyon 7e Arrondissement,86,7045,45.73774095870645,4.824487515709712,25,Parc des Berges,45.0,True,Accès berges - Parc - Itinéraire cyclable,,Validé
+92,Monté,"19, Rue Saint Jean",,69266.0,Villeurbanne,133,10123,45.77664227160574,4.9023610707870136,12,Saint Jean Canal,,True,,,Validé
+93,Monté,"86, Quai Perrache",Angle Pont Raymond Barre,69382.0,Lyon 2e Arrondissement,122,2020,45.73337250840419,4.818957771666686,20,Musée des Confluences,20.0,True,Musée des Confluences,,Validé
+94,Monté,"64, Rue Pierre Corneille",Angle Cours Lafayette,69386.0,Lyon 6e Arrondissement,157,6031,45.763759478359226,4.843777340519189,13,Lafayette / Corneille,31.0,True,Maillage,,Validé
+95,Monté,"18, Rue Edouard Rochet",,69388.0,Lyon 8e Arrondissement,131,8035,45.74723429166505,4.865440400790833,20,Sans Souci,35.0,True,Métro D - Institut Lumière,,Validé
+96,Monté,"123, Boulevard de la Bataille de Stalingrad",Angle rue Charlie Chaplin,69266.0,Villeurbanne,159,10036,45.77435682871685,4.859154585760839,21,Stalingrad,36.0,True,Entreprises - Itinéraires cyclables,,Validé
+97,Monté,"200, Quai Charles de Gaulle",Côté Allée Achille Lignon,69386.0,Lyon 6e Arrondissement,130,6037,45.78227068981782,4.849355057530957,27,Cité Internationale / Interpol,37.0,True,Interpol - Cité internationale - Parc de la Tête d'Or,,Validé
+98,Monté,"106, Grande Rue de la Guillotière",Angle Rue de la Madeleine,69387.0,Lyon 7e Arrondissement,128,7039,45.75105654654361,4.848048230345324,10,Guillotière / Madeleine,39.0,True,Maillage,,Validé
+99,Monté,"21, Rue Docteur Dolard",,69266.0,Villeurbanne,168,10073,45.7614496449793,4.872465504963482,25,Institut d'Art Contemporain,73.0,True,Musée D'Art Contemporain,,Validé
+100,Monté,Avenue Diderot,,69199.0,Saint-Fons,440,17004,45.70637039615286,4.852485523161194,15,Saint-Fons - Gare,,True,Gare,,Validé
+101,Monté,"Face 81, Rue Joliot Curie",,69385.0,Lyon 5e Arrondissement,123,5031,45.75464051154392,4.78814888398559,20,Ménival / Joliot Curie,31.0,True,Maillage,,Validé
+102,Monté,"17, Rue Pizay",,69381.0,Lyon 1er Arrondissement,107,1032,45.76720041723765,4.836391685356332,22,Pizay,32.0,True,Opéra - Centre ville - Métro A,,Validé
+103,Monté,"11, Rue Paul Cazeneuve",,69388.0,Lyon 8e Arrondissement,148,8033,45.73733371338859,4.865494312552787,20,Berthelot / Cazeneuve,,True,Collège - Tram T2,,Validé
+104,Monté,"Face 14, Quai Général Sarrail",Angle Rue Vauban,69386.0,Lyon 6e Arrondissement,127,6032,45.76485827237058,4.841565471491024,20,Préfecture / Sarrail,32.0,True,Quai - Itinéraire cyclable,,Validé
+105,Monté,"Face 20, Rue Roger Radisson",,69385.0,Lyon 5e Arrondissement,437,5051,45.76052751809217,4.819456590340852,15,Lugdunum - Radisson,,True,Musée Lugdunum - logements - Fourvière,,Validé
+106,Monté,"83, Boulevard du Docteur Coblod",,69259.0,Vénissieux,435,16006,45.69697798681366,4.896142973146468,15,Vénissieux - Coblod,,True,"Stade, logements",,Validé
+107,Monté,Avenue Marcel Paul,Angle Rue Gaspard Picard,69259.0,Vénissieux,439,16007,45.69962307919982,4.881987447214573,15,Vénissieux - Paul / Picard,,True,Centre,,Validé
+108,Monté,"3, Quai Paul Sédallian",,69389.0,Lyon 9e Arrondissement,126,9008,45.79741219628871,4.829046353363459,16,L'Ile Barbe,8.0,True,Ile Barbe - Coeur quartier - Commerces,,Validé
+109,Monté,"10, Rue du Dauphiné",,69383.0,Lyon 3e Arrondissement,139,3069,45.74994622885924,4.864650384121667,30,Dauphiné / Saint-Maximin,,True,,,Validé
+110,Monté,"32, Boulevard Eugène Deruelle",Face Rue Masséna,69383.0,Lyon 3e Arrondissement,125,3003,45.76300596259349,4.855076389116349,30,Part-Dieu / Deruelle,3.0,True,Centre commercial,,Validé
+111,Monté,"Face 303, Rue Duguesclin",Angle Cours Gambetta,69383.0,Lyon 3e Arrondissement,137,3029,45.75300435303951,4.850247427219973,38,Place Aristide Briand,29.0,True,Itinéraires cyclables,,Validé
+112,Monté,"173, Avenue Barthélémy Buyer",,69385.0,Lyon 5e Arrondissement,129,5054,45.763980043318114,4.7922726618635325,19,Champvert,54.0,True,Centre social - Marché,,Validé
+113,Monté,"93, Rue Pierre Voyant",,69266.0,Villeurbanne,182,10118,45.767191415027256,4.900599099512037,22,Voyant / Chambfort,118.0,True,Commerces - Centre social,,Validé
+114,Monté,Place Rouville,,69381.0,Lyon 1er Arrondissement,151,1024,45.76966444231114,4.8246123488634005,17,Rouville,24.0,True,Lycée Diderot - Clinique Saint Charles - Pentes,,Validé
+115,Monté,"Face 8, Rue de Trion",,69385.0,Lyon 5e Arrondissement,163,5053,45.75598631420258,4.818742672448078,18,Saint-Just,53.0,True,Coeur de quartier - Commerces - Jardin public - Lycée,,Validé
+116,Monté,"Face 30, Rue Ferrandière",Angle Rue de la République,69382.0,Lyon 2e Arrondissement,187,2017,45.76217399703886,4.835970693686822,25,République / Ferrandière,17.0,True,Métro A - Commerces,,Validé
+117,Monté,"1, Place d'Arsonval",,69383.0,Lyon 3e Arrondissement,208,3007,45.74341567680107,4.878920616442839,32,Place d'Arsonval,7.0,True,Hôpital Edouard Herriot - Métro D - Tram T2 - Fac Médecine,,Validé
+118,Monté,"49 bis, Rue Sergent Michel Bethet",Esplanade Lina Crétet,69389.0,Lyon 9e Arrondissement,178,9033,45.76736547853642,4.805627699519279,40,Gorge de Loup,33.0,True,Lycée professionnel - Métro D,,Validé
+119,Monté,"41, Quai Fulchiron",,69385.0,Lyon 5e Arrondissement,172,5015,45.75200117696068,4.821661798351627,19,Fulchiron,15.0,True,Maillage,,Validé
+120,Monté,"3, Rue Félissent",Angle Rue de Marseille,69387.0,Lyon 7e Arrondissement,154,7014,45.75298634352899,4.841415287461779,30,Marseille / Félissent,14.0,True,Maillage,,Validé
+121,Monté,"Face 2, Avenue Paul Krüger",,69266.0,Villeurbanne,224,10113,45.75576427197485,4.891530167671847,22,Gare de Villeurbanne,113.0,True,Tram T3 - Maillage,,Validé
+122,Monté,"122b, Avenue Jules Guesde",,69259.0,Vénissieux,214,16005,45.708533972113074,4.88702481170959,25,Vénissieux - Gare,,True,Gare de Vénissieux,,Validé
+123,Monté,"Face 1, Rue Saint Antoine",Angle Rue de la Villette,69383.0,Lyon 3e Arrondissement,171,3006,45.7628598509097,4.862286900087199,23,Villette / Saint-Antoine,,True,Commerces - Centre ville,,Validé
+124,Monté,"Face 65, Boulevard Marius Vivier-Merle",Angle Rue Paul Bert,69383.0,Lyon 3e Arrondissement,173,3138,45.75733736594054,4.858542068030176,19,Vivier Merle / Paul Bert Ouest,138.0,True,CAFAL,,Validé
+125,Monté,"60, Cours Charlemagne",,69382.0,Lyon 2e Arrondissement,153,2028,45.74442230143973,4.822142870439611,16,Sainte-Blandine,28.0,True,"Tram T1, T2",,Validé
+126,Monté,"Face 50, Rue des Docks",Angle Rue Antoine Laborde,69389.0,Lyon 9e Arrondissement,158,9042,45.78655789529245,4.811476181120188,19,Vaise Docks,42.0,True,Complexe cinéma Pathé,,Validé
+127,Monté,"22, Rue Louis Paufique",,69382.0,Lyon 2e Arrondissement,135,2026,45.75937619745756,4.835484030123885,28,République / Paufique,26.0,True,Commerces - Hôtel Dieu - Centre ville,,Validé
+128,Monté,Avenue Jean Jaurès,Angle Rue de Gerland,69387.0,Lyon 7e Arrondissement,177,7022,45.74391432692689,4.841424444852924,30,Jaurès / Lagrange,22.0,True,Gare SNCF - Piste cyclable - Commerces,,Validé
+129,Monté,Place de la Paix,,69381.0,Lyon 1er Arrondissement,165,1031,45.768023612672,4.831741251718418,20,Place de la Paix,31.0,True,Lycée - Place des Terreaux - Pentes,,Validé
+130,Monté,"Face 10, Rue Bancel",Angle Rue Chevreul,69387.0,Lyon 7e Arrondissement,176,7024,45.74852028674798,4.840524571672516,21,Bancel / Chevreul,24.0,True,Itinéraire cyclable,,Validé
+131,Monté,"5, Rue Ferrandière",,69382.0,Lyon 2e Arrondissement,124,2025,45.76206066109205,4.833515496573599,18,Mercière / Ferrandière,25.0,True,Restaurants rue Mercière - Commerces - Centre ville,,Validé
+132,Monté,"Face 16, Avenue Galline",Angle avenue de Condorcet,69266.0,Villeurbanne,205,10055,45.77639544847652,4.86708711115082,15,Condorcet / Galline,55.0,True,Maillage - Habitat dense,,Validé
+133,Monté,Place César Geoffray,,69385.0,Lyon 5e Arrondissement,443,5046,45.750095912515,4.785361365092428,15,Witkowski / Valdo,,True,Logements,,En projet ou en cours de validation
+134,Monté,Rue Docteur Bouchut,Angle Boulevard Marius Vivier-Merle,69383.0,Lyon 3e Arrondissement,170,3011,45.75989765125279,4.857573031414216,40,Part-Dieu / Cuirassiers,10.0,True,Centre commercial - Bibliothèque - Gare SNCF,,Validé
+135,Monté,"1, Boulevard du 11 Novembre 1918",Face à l'entrée parc,69266.0,Villeurbanne,191,10005,45.779693707850846,4.860008593899982,35,11 Novembre,5.0,True,Parc Tête d'Or - Itinéraire cyclable,,Validé
+136,Monté,"16, Rue Santos Dumont",Angle Rue Saint Nestor,69388.0,Lyon 8e Arrondissement,183,8025,45.74444617982907,4.860887175144378,17,Dumont / Jouvet,25.0,True,Maillage - Lycée Colbert,,Validé
+137,Monté,"17, Place Jules Ferry",Angle Rue des Emeraudes,69386.0,Lyon 6e Arrondissement,196,6008,45.7684122613938,4.859070556738344,20,Place Jules Ferry,8.0,True,Métro B - Parking - Place - Restaurants,,Validé
+138,Monté,"110, Cours Vitton",,69386.0,Lyon 6e Arrondissement,164,10111,45.77031052814655,4.862002498921168,20,Charles Hernu,46.0,True,"Métro A, B - Tram T1",,Validé
+139,Monté,"Face 2, Place des Célestins",Côté Nord de la place,69382.0,Lyon 2e Arrondissement,184,2013,45.75997681638749,4.8319780924660245,22,Célestins,13.0,True,Théâtre des Célestins - Commerces - Centre ville,,Validé
+140,Monté,"259t, Avenue Jean Jaurès",,69387.0,Lyon 7e Arrondissement,169,7005,45.731753554835215,4.833961794123208,20,Debourg,5.0,True,Métro B - Tram T6 - ENS - Bibliothèque,,Validé
+141,Monté,"46, Rue Garibaldi",Angle Rue Crillon,69386.0,Lyon 6e Arrondissement,211,6021,45.7706974838637,4.849935729364381,11,Garibaldi,21.0,True,Commerces,,Validé
+142,Monté,Rue Nungesser et Coli,"Angle 25, Rue Laënnec",69388.0,Lyon 8e Arrondissement,202,8030,45.74134872300852,4.879723163759173,16,Laënnec,30.0,True,Fac - Tram T2,,Validé
+143,Monté,"108, Avenue Roger Salengro",,69266.0,Villeurbanne,242,10008,45.77836820802221,4.879673281300416,24,Salengro / Vaillant,8.0,True,Centre quartier - Itinéraire cyclable,,Validé
+144,Monté,"1, Rue Professeur Rollet",,69388.0,Lyon 8e Arrondissement,175,8001,45.74853956627726,4.861541779364256,36,Université Lyon III,1.0,True,Université Lyon 3,,Validé
+145,Monté,"Face 27, Rue de la Thibaudière",Angle Avenue Jean Jaurès,69387.0,Lyon 7e Arrondissement,206,7053,45.75034479759135,4.845048253499639,28,Jaurès / Thibaudière,53.0,True,Maillage,,Validé
+146,Monté,"Face 13, Place Benoit Crépu",,69385.0,Lyon 5e Arrondissement,190,5040,45.75784167965563,4.826105451692288,20,Place Crépu,40.0,True,Vieux Lyon - Parking,,Validé
+147,Monté,Cours Albert Thomas,Face Institut Lumière,69383.0,Lyon 3e Arrondissement,198,3008,45.74583323374609,4.870638710650287,18,Institut Lumière,8.0,True,Métro D - Collège - Institut Lumière - Marché - Commerces,,Validé
+148,Monté,"65, Boulevard Marius Vivier-Merle",Angle Rue Paul Bert,69383.0,Lyon 3e Arrondissement,193,3038,45.75735141105627,4.858906840163633,20,Vivier Merle / Paul Bert Est,38.0,True,CAFAL,,Validé
+149,Monté,"139, Avenue Félix Faure",,69383.0,Lyon 3e Arrondissement,199,3066,45.75430081007711,4.863464101960399,19,Kimmerling / Faure,66.0,True,Bureaux - Habitat - Collège,,Validé
+150,Monté,"52, Quai Paul Sédallian",,69389.0,Lyon 9e Arrondissement,216,9013,45.787509756748456,4.814421127849675,20,Quai Paul Sédallian,13.0,True,Pôle d'activités,,Validé
+151,Monté,"43, Rue Vaubecour",,69382.0,Lyon 2e Arrondissement,180,2042,45.75186933643942,4.82475558921832,20,Joffre / Vaubecour,42.0,True,Centre ville,,Validé
+152,Monté,"104, Rue Commandant Charcot",,69385.0,Lyon 5e Arrondissement,213,5036,45.7496172708063,4.795531093165858,15,La Salette,32.0,True,Habitations - Commerces,,Validé
+153,Monté,Quai Victor Augagneur,Angle Cours Gambetta,69383.0,Lyon 3e Arrondissement,195,3097,45.75682746380853,4.840500658796507,40,Augagneur / Fosse aux Ours,97.0,True,Commerces - Quartier - Itinéraire cyclable,,Validé
+154,Monté,"18, Route de Genève",,69286.0,Rillieux-la-Pape,237,30001,45.80504380778307,4.884733879310547,12,Rillieux - Canellas,,True,Place Canellas - Marché - Bibliothèque,,Validé
+155,Monté,Rue Jeunet,Angle Rue Pierre Valdo,69385.0,Lyon 5e Arrondissement,255,5045,45.75048148344842,4.788774121103122,18,Valdo / Rivet,45.0,True,Maillage,,Validé
+156,Monté,"Face 56, Quai Pierre Scize",Place Bourgneuf,69385.0,Lyon 5e Arrondissement,5,5041,45.76658034430817,4.820230242298261,21,L'Homme de la Roche,41.0,True,Itinéraire cyclable - Commerces - Logements,,Validé
+157,Monté,"Face 10, Rue Juliette Récamier",Angle Rue Tête d'Or,69386.0,Lyon 6e Arrondissement,9,6028,45.76433369757857,4.853492129706198,16,Récamier / Tête d'Or,28.0,True,Maillage,,Validé
+158,Monté,"24, Rue Anatole France",,69266.0,Villeurbanne,269,10045,45.76690539202143,4.870161396008619,20,Alsace / Anatole France,,True,Lycée professionnel Magenta,,Validé
+159,Monté,"25, Rue Jean Baldassini",,69387.0,Lyon 7e Arrondissement,25,7026,45.7276967807942,4.837382090273671,20,Baldassini / Gerland,68.0,True,,,Validé
+160,Monté,"76, Rue Pierre Baratin",,69266.0,Villeurbanne,241,10087,45.76059899709916,4.900696805995096,12,Baratin,87.0,True,Terrain de sport - Quartier,,Validé
+161,Monté,Cours Tolstoï,Angle Rue Docteur Frappaz,69266.0,Villeurbanne,14,10021,45.75971832074692,4.889946936317878,19,Grandclément,21.0,True,Centre quartier - Arrêt C3 - Itinéraire cyclable,,Validé
+162,Monté,"111, Avenue Berthelot",Angle Rue Garibaldi,69387.0,Lyon 7e Arrondissement,78,7011,45.743711813588014,4.847368882959854,15,Berthelot / Garibaldi,11.0,True,Tram T2 - Itinéraires cyclables,,Validé
+163,Monté,"1, Place Victor Basch", ,69383.0,Lyon 3e Arrondissement,155,3005,45.75378586526095,4.848042426103684,26,Saxe / Gambetta,5.0,True,"Métro B, D - Centre ville",,Validé
+164,Monté,"5, Rue Croix-Barret",Angle Rue Pierre Bourdeix,69387.0,Lyon 7e Arrondissement,143,7019,45.736790813856295,4.84115208860552,32,Croix Barret / Bourdeix,,True,Entreprise - Maillage,,Validé
+165,Monté,Rue Max Barel,Angle rue Emile Decorps,69266.0,Villeurbanne,228,10032,45.75711841532476,4.899993150913253,13,Primat / Decorps,32.0,True,Pôle Pixel,,Validé
+166,Monté,"31, Boulevard Yves Farge",,69387.0,Lyon 7e Arrondissement,234,7030,45.74316454195516,4.834168875074644,30,Quartier Général Frère,30.0,True,Parc d'activités - Logements,,Validé
+167,Monté,"159, Rue Professeur Beauvisage",,69388.0,Lyon 8e Arrondissement,238,8008,45.72787185590096,4.863442058905264,17,Beauvisage / Pressensé,8.0,True,Tram T6 - Itinéraires cyclables,,Validé
+168,Monté,"Face 30, Rue Commandant Charcot",,69385.0,Lyon 5e Arrondissement,207,5030,45.75503108866266,4.807785054151946,32,Charcot / Résidence Universitaire,30.0,True,Résidence universitaire - Marché,,Validé
+169,Monté,"11, Rue Paul Chenavard",,69381.0,Lyon 1er Arrondissement,239,1020,45.76676710458034,4.83293148796597,18,Terreaux / Chenavard,20.0,True,Place des Terreaux,,Validé
+170,Monté,Place Alfred Vanderpol,Angle Rue Saint-Pierre de Vaise,69389.0,Lyon 9e Arrondissement,204,9029,45.77312446471764,4.807851589329143,15,Saint Pierre de Vaise,29.0,True,Coeur de quartier,,Validé
+171,Monté,"Face 60, Avenue Rockefeller",,69383.0,Lyon 3e Arrondissement,245,3071,45.74044714732906,4.888061515020887,23,BioParc,71.0,True,Pôle d'habitation - Bio Parc - Faculté de Médecine,,Validé
+172,Monté,"Face 126, Rue Paul Bert",,69383.0,Lyon 3e Arrondissement,303,3084,45.75726125994253,4.855200856422819,28,Desaix,84.0,True,MdL,,Validé
+173,Monté,"Face 34, Place Bellecour",,69382.0,Lyon 2e Arrondissement,232,2002,45.75815691094956,4.830434694909472,40,Bellecour / St Exupéry,2.0,True,"Métro A, D - Commerces - Centre ville",,Validé
+174,Monté,"50, Quai Charles de Gaulle",Face parvis palais des congrés,69386.0,Lyon 6e Arrondissement,218,6035,45.78542142497967,4.854124072710764,21,Cité Internationale,35.0,True,Cité Internationale - Parc de la Tête d'Or,,Validé
+175,Monté,"Face 317, Avenue Jean Jaurès",Square du Professeur Galtier,69387.0,Lyon 7e Arrondissement,221,7006,45.7275732848432,4.831197482195625,40,Gerland,6.0,True,Métro B - Stade de Gerland - Restaurants,,Validé
+176,Monté,"12, Avenue Jean Mermoz",,69388.0,Lyon 8e Arrondissement,235,8004,45.73515099580791,4.872817387536045,21,Mairie du 8ème,4.0,True,Mairie du 8ème,,Validé
+177,Monté,"52, Rue du Pensionnat",,69383.0,Lyon 3e Arrondissement,240,3034,45.754714560526025,4.853451983771515,30,Garibaldi / Pensionnat,104.0,True,Piscine - Gymnase,,Validé
+178,Monté,"56, Rue des Chevaucheurs",Place Sainte Irénée,69385.0,Lyon 5e Arrondissement,274,5008,45.75494588109138,4.812421224845746,20,Sainte-Irénée,8.0,True,Résidence universitaire,,Validé
+179,Monté,"41, Rue Sala",,69382.0,Lyon 2e Arrondissement,233,2041,45.75446619561804,4.833039251668663,21,Sala / Charité,41.0,True,Centre ville,,Validé
+180,Monté,"78, Boulevard des Etats-Unis",,69388.0,Lyon 8e Arrondissement,229,8029,45.73221801067714,4.865141536736715,22,Etats-Unis / Lévigne,29.0,True,Commerces - Habitat - Ecole - Tram T4,,Validé
+181,Monté,"Face 112, Rue Servient",Place Charles de Gaulle,69383.0,Lyon 3e Arrondissement,250,3015,45.76077741317111,4.852678990647336,32,Servient / Garibaldi,15.0,True,"Tram T1, Cité administrative - Centre commercial",,Validé
+182,Monté,Place Deperet,"Face 8, Rue de l'Université",69387.0,Lyon 7e Arrondissement,146,7035,45.75095495120147,4.839267120718329,40,Marseille / Université,35.0,True,Tram T1 - Commerces - Université,,Validé
+183,Monté,"Face 1, Boulevard de la Bataille de Stalingrad",,69266.0,Villeurbanne,179,6041,45.78436719122735,4.860062426115051,25,Transbordeur,41.0,True,Transbordeur - Parc de la Tête d'Or - Salle 3000,,En projet ou en cours de validation
+184,Monté,"12, Rue Félix Mangini",Face au n°9,69389.0,Lyon 9e Arrondissement,277,9046,45.79040880714802,4.816349391794238,24,Mangini,,True,Logements - Activités,,Validé
+185,Monté,"6, Rue de la Platière",Angle Quai de la Pêcherie,69381.0,Lyon 1er Arrondissement,188,1016,45.76595473005232,4.831178124644486,17,Pêcherie,16.0,True,Marché des bouquinistes,,Validé
+186,Monté,"2, Rue des Acacias",,69266.0,Villeurbanne,270,10119,45.7804194257464,4.9045008762779005,12,Villeurbanne Saint-Jean,119.0,True,Collège Jean Vilar,,Validé
+187,Monté,Rue Domer,Angle Rue Chevreul,69387.0,Lyon 7e Arrondissement,145,7041,45.7466748285559,4.844443465685608,12,Domer / Chevreul,41.0,True,MJC du 7ème - Itinéraire cyclable - Terrains sports,,Validé
+188,Monté,"Face 2, Rue Professeur Jean Bernard",Angle Boulevard Chambaud de la Bruyère,69387.0,Lyon 7e Arrondissement,212,7015,45.72279362231216,4.8426881110123965,12,Techsud,66.0,True,Entreprises,,Validé
+189,Monté,"133, Boulevard de la Croix-Rousse",,69384.0,Lyon 4e Arrondissement,166,4002,45.774200440717294,4.827765221864178,20,Mairie du 4ème,2.0,True,Mairie - Centre ville,,Validé
+190,Monté,"Face 30, Cours d'Herbouville",Terre plein central,69384.0,Lyon 4e Arrondissement,227,4012,45.77876757733165,4.841069562210997,30,Place Adrien Godien,12.0,True,Maillage,,Validé
+191,Monté,"112, Rue Challemel Lacour",,69387.0,Lyon 7e Arrondissement,261,7025,45.72945512661453,4.844177872010189,20,Lacour / Artillerie,67.0,True,Entreprises,,Validé
+192,Monté,"4, Place Danton",Angle Rue Danton,69383.0,Lyon 3e Arrondissement,246,3103,45.75481244853283,4.857574372601033,18,Place Danton,103.0,True,Commerces - Bureaux,,Validé
+193,Monté,"29, Boulevard du 11 Novembre 1918",,69266.0,Villeurbanne,289,10053,45.77938657533472,4.8630954295038,30,Rossellini / 11 Novembre,53.0,True,BRGM - ENSSIB - Campus de la Doua,,Validé
+194,Monté,"46, Rue Docteur Jean Damidot",,69266.0,Villeurbanne,290,10034,45.76182010690323,4.886133865523622,18,Docteur Damidot,34.0,True,MJC,,Validé
+195,Monté,"3, Rue Gorge de Loup",,69389.0,Lyon 9e Arrondissement,258,9049,45.77013407203493,4.805158003014948,16,Sergent Berthet / Gorge de Loup,49.0,True,Commerces - Coeur de quartier,,Validé
+196,Monté,Rue du Bourbonnais,Angle Rue Sergent Michel Berthet,69389.0,Lyon 9e Arrondissement,257,9002,45.77424082809611,4.805666011414779,27,Mairie du 9ème,2.0,True,Mairie - Coeur quartier - Métro D,,Validé
+197,Monté,"26, Avenue Tony Garnier",,69387.0,Lyon 7e Arrondissement,281,7049,45.727918857658594,4.823560081405908,25,Cité Scolaire Internationale,49.0,True,Ecole - Entreprises,,Validé
+198,Monté,"Face 2, Rue Pierre Delore",,69388.0,Lyon 8e Arrondissement,284,8039,45.73863588359213,4.85240018397892,20,Pierre Delore,39.0,True,Habitat - Cimetière,,Validé
+199,Monté,"170, Boulevard des Etats-Unis",Angle Avenue Viviani,69388.0,Lyon 8e Arrondissement,297,8041,45.7249470232512,4.870803748131476,20,Etats-Unis / Viviani,41.0,True,Logements - Tram T4,,Validé
+200,Monté,"73, Rue Paul Cazeneuve",Angle Avenue de Pressensé,69388.0,Lyon 8e Arrondissement,300,8042,45.73142726712921,4.860037966312989,22,Francis de Pressensé,38.0,True,Quartier d'habitation - Tram T6,,Validé
+201,Monté,"2, Rue du Moulin à Vent",Angle Route de Vienne,69259.0,Vénissieux,309,8020,45.72967613408203,4.854181941236409,22,Moulin à Vent,20.0,True,Tram T6 - Commerces - Itinéraire cyclable - Coeur de quartier,,Validé
+202,Monté,"39, Boulevard Ambroise Paré",,69388.0,Lyon 8e Arrondissement,318,8040,45.73629951229903,4.883681688322731,24,Ambroise Paré,40.0,True,Services - Habitats,,Validé
+203,Monté,"6, Rue Antoine Lumière",,69388.0,Lyon 8e Arrondissement,325,8053,45.74356785165425,4.870101746345786,16,Lumière / Trouilhet,53.0,True,Poste - Commerces,,Validé
+204,Monté,"97, Rue du 4 Août 1789",Angle Rue Docteur Rollet,69266.0,Villeurbanne,323,10064,45.76479916907835,4.884270532810905,15,4 Août 1789,64.0,True,Itinéraire cyclable - Associations sportives,,Validé
+205,Monté,"52, Rue Sidoine Apollinaire",,69389.0,Lyon 9e Arrondissement,271,9010,45.77101828846886,4.796450348757553,19,Piscine de Vaise,10.0,True,Piscine de Vaise,,Validé
+206,Monté,"14, Quai Saint Vincent",,69381.0,Lyon 1er Arrondissement,267,1006,45.767895769494274,4.819816657420369,22,Subsistances,6.0,True,Les Subsistances,,Validé
+207,Monté,"3, Quai Joseph Gillet",,69381.0,Lyon 1er Arrondissement,253,4001,45.77038943023936,4.814245667423702,22,Conservatoire Bis,1.0,True,Conservatoire - Logements - Maillage,,Validé
+208,Monté,"Face 84, Quai Joseph Gillet ",,69384.0,Lyon 4e Arrondissement,262,4024,45.78817001884096,4.818560286672529,25,Lyon Métropole,24.0,True,Logements - Lyon Plage,,Validé
+209,Monté,"15, Rue des Remparts d'Ainay",,69382.0,Lyon 2e Arrondissement,263,2038,45.75308920958161,4.829807144832727,24,Remparts d'Ainay,,True,Commerces - Métro A - Centre ville,,Validé
+210,Monté,"Face 167, Boulevard Pinel",Angle Rue Guillaume Paradin,69388.0,Lyon 8e Arrondissement,278,8059,45.735420917706286,4.889602369347656,15,Laënnec / Pinel,59.0,True,Jardin public - Logements,,Validé
+211,Monté,"101, Avenue Paul Santy",,69388.0,Lyon 8e Arrondissement,287,8021,45.72853408538079,4.877306470756095,16,Paul Santy,21.0,True,Itinéraire cyclable,,Validé
+212,Monté,"Face 27, Rue Denfert-Rochereau",angle Rue Jacquard,69384.0,Lyon 4e Arrondissement,272,4009,45.775899511231145,4.82537896207112,14,Jacquart / Denfert-Rochereau,9.0,True,Maillage,,Validé
+213,Monté,Rue de la Madeleine,Angle Rue de la Thibaudière,69387.0,Lyon 7e Arrondissement,331,7016,45.74908035897641,4.847739942653555,15,Place Saint Louis,16.0,True,Coeur quartier - Itinéraire cyclable,,Validé
+214,Monté,"Face 128, Boulevard du 11 Novembre 1918",,69266.0,Villeurbanne,305,10101,45.77944411076116,4.874090173328522,34,Einstein / 11 Novembre 1918,101.0,True,Campus de la Doua - Résidence étudiante - Maillage,,Validé
+215,Monté,"Face 106, Avenue Félix Faure",,69383.0,Lyon 3e Arrondissement,256,3036,45.75380716914852,4.859833865361609,34,Félix Faure / Vivier Merle,36.0,True,,,Validé
+216,Monté,"101, Cours Charlemagne",,69382.0,Lyon 2e Arrondissement,215,2005,45.74071411823817,4.819321428185751,28,Confluence Hôtel de Région,5.0,True,Hôtel de Région - Tram Montrochet - Pôle de loisirs,,Validé
+217,Monté,"Face 34, Rue Antoine Lumière",,69388.0,Lyon 8e Arrondissement,353,8054,45.740894695747706,4.8683054018251575,20,Martinière / Monplaisir,54.0,True,Lycée technique,,Validé
+218,Monté,"1, Rue Roquette",Angle Rue de Bourgogne,69389.0,Lyon 9e Arrondissement,334,9003,45.77567499966055,4.805303665120908,16,Place Valmy,3.0,True,Métro D - Médiathèque,,Validé
+219,Monté,Place Ambroise Courtois,"Face 107, Cours Albert Thomas",69388.0,Lyon 8e Arrondissement,321,8002,45.74529261647093,4.871678963257802,20,Place Ambroise Courtois,2.0,True,Métro D - Institut Lumière - Place et avenue des Frères Lumière,,Validé
+220,Monté,"Face 74, Boulevard Jean XXIII",Angle Avenue Jean Mermoz,69388.0,Lyon 8e Arrondissement,349,8009,45.736479605706585,4.869805432007176,20,Jean XXIII / Mermoz,9.0,True,Tram T2 - Logements - Centre ville,,Validé
+221,Monté,"Face 174, Rue de Gerland",Angle Rue Challemel Lacour,69387.0,Lyon 7e Arrondissement,348,7021,45.72980586522623,4.838138438340419,12,Challemel Lacour / Gerland,21.0,True,Maillage - Logements,,Validé
+222,Monté,"2, Place Saint Anne",,69383.0,Lyon 3e Arrondissement,252,3099,45.7570472667114,4.865331803082072,18,Place Sainte Anne,99.0,True,Coeur de quartier - Commerces,,Validé
+223,Monté,Allée Andrée Mure,Angle Quai Antoine Riboud,69382.0,Lyon 2e Arrondissement,251,2010,45.74341409472539,4.815854361039027,22,Confluence / Darse,10.0,True,Pôle de Loisirs Confluence,,Validé
+224,Monté,Rue Angélique de Coudray,,69204.0,Saint-Genis-Laval,445,19002,45.700876966717765,4.803912325197796,15,Saint Genis L. - Hôpitaux Sud,,True,"Métro, Hôpital",,Validé
+225,Monté,"66, Rue Antoine Charial",,69383.0,Lyon 3e Arrondissement,295,3085,45.75786183436949,4.868350531883271,16,Sacré Coeur,85.0,True,Gymnase - Piscine - Lycée - Jardin public - Sacré Coeur,,Validé
+226,Monté,"186, Avenue Paul Santy",,69388.0,Lyon 8e Arrondissement,357,8061,45.72540371721826,4.88129489220966,18,Stade Vuillermet,61.0,True,Stade - Commerces,,Validé
+227,Monté,"37, Avenue de Ménival",,69385.0,Lyon 5e Arrondissement,375,5032,45.75675522836069,4.783245907844624,12,Ménival / Eisenhower,,True,Commerces - Logements,,Validé
+228,Monté,"64, Cours Albert Thomas",Angle Rue Villon,69388.0,Lyon 8e Arrondissement,336,8038,45.74671633151209,4.867428644526009,20,Albert Thomas / Villon,38.0,True,Bureaux - Itinéraire cyclable,,Validé
+229,Monté,"100, Cours Gambetta",Angle Rue Rachais,69387.0,Lyon 7e Arrondissement,356,7003,45.75179013556488,4.852607966008755,40,Gambetta / Garibaldi,3.0,True,Métro D,,Validé
+230,Monté,"Face 10, Rue Président Krüger",,69388.0,Lyon 8e Arrondissement,380,8058,45.73867144035856,4.878117422458279,16,Longefer / Krüger,58.0,True,Maillage,,Validé
+231,Monté,"135, Rue Château Gaillard",,69266.0,Villeurbanne,378,10092,45.77155432674476,4.890374213837775,17,Montgolfier / Château Gaillard,92.0,True,Maillage,,Validé
+232,Monté,"2, Rue Jean Renoir",Angle Rue Jeanne Hachette,69383.0,Lyon 3e Arrondissement,312,3067,45.75291602189632,4.863852689382552,15,Hachette,67.0,True,CES - Logements,,Validé
+233,Monté,"30, Quai Paul Sédallian",Angle Rue Joannès Carret,69389.0,Lyon 9e Arrondissement,347,9041,45.792477738603225,4.820578257531564,18,Carret / Sédallian,41.0,True,Activités - Logement - Maillage,,Validé
+234,Monté,"Face 327, Rue Garibaldi",Angle Rue Domer,69387.0,Lyon 7e Arrondissement,345,7062,45.747732736897866,4.85162737005828,19,Garibaldi / Domer,62.0,True,Lycée Professionnel - CROUS,,Validé
+235,Monté,"105, Rue Pasteur",Angle Avenue Berthelot,69387.0,Lyon 7e Arrondissement,355,7010,45.74735617434048,4.83599969820417,19,Centre Berthelot,10.0,True,Tram T2 - Cinéma - Centre ville,,Validé
+236,Monté,"Face 2, Place Bir-Hakeim",,69383.0,Lyon 3e Arrondissement,283,3039,45.75259214373137,4.855710148688799,19,Place Bir-Hakeim,39.0,True,Maillage,,Validé
+237,Monté,"3, Quai André Lassagne",,69381.0,Lyon 1er Arrondissement,286,1035,45.77220146927456,4.837911792926473,16,Quai Lassagne,35.0,True,Maillage,,Validé
+238,Monté,Quai Charles Sénard,Face à la Rue de la Gravière,69034.0,Caluire-et-Cuire,369,11005,45.78795164030834,4.853054333399219,25,Caluire - Passerelle de la Paix,,True,Passerelle,,Validé
+239,Monté,"Face 11, Place Antonin Gourju",,69382.0,Lyon 2e Arrondissement,296,2036,45.75948634905248,4.830169955416065,30,Place Antonin Gourju,36.0,True,Commerces - Place Bellecour - Centre ville,,Validé
+240,Monté,"66, Avenue Jean Mermoz",Angle Boulevard Edmond Michelet,69388.0,Lyon 8e Arrondissement,367,8024,45.73327178016184,4.878600856962377,12,Mermoz / Michelet,24.0,True,Cité des Entreprises - Itinéraire cyclable - Tram T6,,Validé
+241,Monté,"97, Avenue Jules Jusserand",Angle Cours Gambetta,69383.0,Lyon 3e Arrondissement,299,3053,45.75111241029384,4.855585088300652,13,Gambetta / Jusserand,53.0,True,Bureaux - Itinéraire cyclable,,Validé
+242,Monté,"Face 19, Rue Clos Savaron",,69384.0,Lyon 4e Arrondissement,298,4008,45.78261726439832,4.825544824711712,20,Clos Savaron,,True,Logements,,Validé
+243,Monté,"1, Chemin de l'Ecully",,69063.0,Collonges-au-Mont-d'Or,446,27002,45.82244232939119,4.8398691634473545,15,Collonges - Médiathèque,,True,"Centre, Médiathèque",,Validé
+244,Monté,"Face 3, Rue Henri Vincenot",,69207.0,Saint-Germain-au-Mont-d'Or,444,35001,45.887542721160166,4.803976891517527,15,Saint Germain - Gare,,True,Gare,,Validé
+245,Monté,Rue John et Robert Kennedy,,69040.0,Champagne-au-Mont-d'Or,447,24500,45.79485072509298,4.792018319917888,15,Champagne - Mairie,,True,Centre,,Validé
+246,Monté,"87, Avenue Félix Faure",,69383.0,Lyon 3e Arrondissement,307,3040,45.753545346477104,4.857905355831999,25,Faure / Danton,,True,,,Validé
+247,Monté,"202, Avenue Félix Faure",,69383.0,Lyon 3e Arrondissement,282,3068,45.75506054727825,4.871397338154996,30,Faure / Meynis,,True,,,Validé
+248,Monté,"Face 221, Avenue Lacassagne",,69383.0,Lyon 3e Arrondissement,313,3089,45.74535137330766,4.888996130854451,24,Trarieux / Lacassagne,89.0,True,Ecole d'infirmière,,Validé
+249,Monté,"44, Rue de la Villette",,69383.0,Lyon 3e Arrondissement,328,3080,45.76005505783218,4.86167388058994,30,Part-Dieu / Villette,80.0,True,Gare Part-Dieu,,Validé
+250,Monté,"17, Avenue Jean Jaurès",Angle Grande Rue de la Guillotière,69387.0,Lyon 7e Arrondissement,390,7008,45.75258090023228,4.846320618224095,10,Jean Jaurès / Guillotière,8.0,True,Maillage,,Validé
+251,Monté,"62, Rue Saint Maximin",,69383.0,Lyon 3e Arrondissement,332,3070,45.74783159213541,4.872196099987808,30,Rebatel / Saint-Maximin,,True,,,Validé
+252,Monté,"Face 14, Rue du 24 Mars 1852",,69389.0,Lyon 9e Arrondissement,411,9004,45.77978198394285,4.804665330959391,22,Gare de Vaise,4.0,True,Gare SNCF - Métro D,,Validé
+253,Monté,"55, Rue Marius Berliet",Angle Rue Saint Romain,69388.0,Lyon 8e Arrondissement,392,8055,45.7422568774536,4.860372089467236,20,Saint-Romain / Berliet,,True, ,,Validé
+254,Monté,"Face 1, Rue Félix Rollet",,69383.0,Lyon 3e Arrondissement,316,3050,45.74832070514108,4.875923959550828,20,Friche RVI,50.0,True,,,Validé
+255,Monté,"19, Quai Perrache",,69382.0,Lyon 2e Arrondissement,293,2023,45.74451404988682,4.826775185879977,18,Perrache / Petit,,True,Commerces - Logements,,Validé
+256,Monté,"235, Rue de Créqui",Angle Rue Paul Bert,69383.0,Lyon 3e Arrondissement,302,3018,45.75669834419256,4.848403485755717,30,Créqui / Voltaire,18.0,True,Coeur de quartier,,Validé
+257,Monté,"137, Avenue Paul Krüger",,69266.0,Villeurbanne,399,10115,45.754167771684585,4.905292080132607,22,Place d'Espagne / Stade Krüger,115.0,True,Stade,,Validé
+258,Monté,"1, Rue Crépet",Angle Boulevard Yves Farge,69387.0,Lyon 7e Arrondissement,391,7018,45.74028065266828,4.832059370425174,20,Lycée Louise Labé,18.0,True,Lycée professionnel Louise Labé,,Validé
+259,Monté,"Face 1, Rue de la Caille",,69383.0,Lyon 3e Arrondissement,407,3102,45.75253942950864,4.894267471712091,16,Docteur Long / Caille,102.0,True,Maillage,,Validé
+260,Monté,"Face 35, Avenue Lacassagne",,69383.0,Lyon 3e Arrondissement,322,3043,45.75396319298447,4.867353294625919,16,Place Rouget de L'Isle,43.0,True,Maillage,,Validé
+261,Monté,"67, Rue Docteur Edmond Locard",,69385.0,Lyon 5e Arrondissement,402,5044,45.76007857703129,4.798407614953548,15,Champvert,44.0,True,Stade Edmond Locard - Logements,,Validé
+262,Monté,"Face 368, Boulevard de Balmont",,69389.0,Lyon 9e Arrondissement,381,9052,45.789315187601794,4.7991603409726284,12,Balmont,52.0,True,Commerces - Logements,,Validé
+263,Monté,"11, Rue Guillaume Paradin",,69388.0,Lyon 8e Arrondissement,420,8003,45.73813687288357,4.886879370667072,16,Claude Bernard Lyon I,3.0,True,Faculté de médecine - Métro D,,Validé
+264,Monté,"96, Rue Chevreul",,69387.0,Lyon 7e Arrondissement,387,7064,45.745430515298224,4.847780277463103,17,CROUS,64.0,True,Ecole de Condé - Logements,,Validé
+265,Monté,Place Antoinette,Angle Cours Richard Vitton,69383.0,Lyon 3e Arrondissement,337,3013,45.75365325559824,4.889242318443289,21,Place Antoinette,13.0,True,Coeur de quartier - Commerces,,Validé
+266,Monté,"37, Rue de l'Epargne",Entrée Parc Blandan,69387.0,Lyon 7e Arrondissement,401,7052,45.7459637289024,4.8511961077823775,25,Parc Blandan,25.0,True,Parc Sergent Blandan,,Validé
+267,Monté,Place des Compagnons de la Chanson,Angle Rue des Aqueducs,69385.0,Lyon 5e Arrondissement,330,5002,45.75652733689576,4.796612178889426,18,Place des Compagnons de la Chanson,2.0,True,Coeur quartier - Marché,,Validé
+268,Monté,"2, Avenue des Arts",,69266.0,Villeurbanne,408,10084,45.78349977959382,4.871249498967631,30,Doua / Avenue des Arts,84.0,True,Campus de la Doua,,Validé
+269,Monté,"7, Rue des Sports",,69266.0,Villeurbanne,393,10103,45.784525320436266,4.87748318756889,30,Doua / Rue des sports,103.0,True,Campus de la Doua - INSA - Tennis stade piscine,,Validé
+270,Monté,"Face 4, Rue Jacques Brel",,69266.0,Villeurbanne,3,10072,45.7742206902626,4.864291347855821,23,Jacques Brel,64.0,True,Tram T1 - Habitat dense - Quartier du Tonkin,,Validé
+271,Monté,"2, Avenue du Commandant L'Herminier",Angle Rue Francis de Pressensé,69266.0,Villeurbanne,396,10047,45.7711232449614,4.885023598465899,15,L'Herminier / Pressensé,47.0,True,Itinéraires cyclables,,Validé
+272,Monté,"27, Avenue Rosa Parks",,69389.0,Lyon 9e Arrondissement,448,9053,45.78660965394875,4.790063333511432,15,Rosa Parks,,True,Logements,,En projet ou en cours de validation
+273,Monté,"186, Route de Vienne",,69388.0,Lyon 8e Arrondissement,403,8057,45.73248197825823,4.85340997500186,20,Vienne / Montagny,57.0,True,Maillage,,Validé
+274,Monté,"18, Rue Bourgelat",Angle Rue Henri IV,69382.0,Lyon 2e Arrondissement,320,2003,45.75304453298495,4.828245539539379,10,Place Ampère,3.0,True,Métro A - Coeur quartier - Commerces,,Validé
+275,Monté,"161, Avenue Thiers",Angle Rue de la Viabert,69386.0,Lyon 6e Arrondissement,292,6016,45.76598798339972,4.862092278200749,16,Viabert / Thiers,16.0,True,Tram T1 - Itinéraire cyclable - Gymnase,,Validé
+276,Monté,"Face 18, Rue Dugas Montbel",Angle Place des Archives,69382.0,Lyon 2e Arrondissement,291,2037,45.74796914110758,4.824861728009316,40,Place des Archives,37.0,True,"Gare SNCF - Tram T1, T2",,Validé
+277,Monté,"Face 4, Quai Général Sarrail",,69386.0,Lyon 6e Arrondissement,417,6023,45.76685056937821,4.841080827117831,14,Quai Sarrail,23.0,True,Parc du Rhône,,Validé
+278,Monté,"Face 38, Avenue Jean-François Raclet",,69387.0,Lyon 7e Arrondissement,452,7027,45.73408912796992,4.839693599474034,15,Raclet / Gerland,,True,Logements,,Validé
+279,Monté,"246, Rue Marcel Mérieux",,69387.0,Lyon 7e Arrondissement,377,7012,45.72908488363722,4.830143479384694,16,Mérieux / Pavillons,12.0,True,ENS Sciences - Coeur quartier,,Validé
+280,Monté,"169, Rue Jean Voillot",,69266.0,Villeurbanne,449,10017,45.75318035921887,4.91088307053899,15,Voillot / Garnier,,True,Logements,,En projet ou en cours de validation
+281,Monté,"47, Rue Tête d'Or",Angle Cours Vitton,69386.0,Lyon 6e Arrondissement,344,6007,45.76966013221694,4.852372782856001,27,Masséna,7.0,True,Métro A,,Validé
+282,Monté,"40, Rue Michel Dupeuble",,69266.0,Villeurbanne,454,10037,45.77605872546432,4.8922240056179325,15,Dupeuble / 8 Mai,,True,Logements,,En projet ou en cours de validation
+283,Monté,"Face 22, Quai Claude Bernard",,69387.0,Lyon 7e Arrondissement,219,7033,45.74938859671178,4.8348566808401925,33,Saint-Luc / Saint-Joseph,33.0,True,"Tram T2, Hôpital",,Validé
+284,Monté,25 Rue du Plat,,69382.0,Lyon 2e Arrondissement,339,2011,45.75678510145141,4.828402946198478,14,Sala / Rue du Plat,11.0,True,Université catholique de Lyon - Collège,,Validé
+285,Monté,"4, Place Louise",,69383.0,Lyon 3e Arrondissement,338,3079,45.7512052508993,4.884820463650072,16,Place Louise,79.0,True,Coeur de quartier - Parc Georges Bazin - Maillage,,Validé
+286,Monté,"Face 45, Quai Joseph Gillet",Angle Pont Masarik,69384.0,Lyon 4e Arrondissement,342,4023,45.77827801299792,4.81063175762027,22,Pont Masaryk,23.0,True,Logements,,Validé
+287,Monté,"25, Rue Chazière",,69384.0,Lyon 4e Arrondissement,351,4025,45.775422466915806,4.817889929552505,20,Chazière,25.0,True,Parc Cerisaie - Habitations,,Validé
+288,Monté,"Face 18/16, Quai Claude Bernard",,69387.0,Lyon 7e Arrondissement,38,7002,45.75110089580277,4.836143507784544,39,Universités Lyon III / Lyon II,2.0,True,Université Lyon II et Lyon III,,Validé
+289,Monté,"Face 23, Boulevard de la Croix Rousse",,69381.0,Lyon 1er Arrondissement,326,1023,45.772231368407766,4.8194012350184,20,Croix Rousse / Perfetti,23.0,True,Complexe sportif Duplat Généty,,Validé
+290,Monté,"26, Rue de la Viabert",,69386.0,Lyon 6e Arrondissement,194,6044,45.76631504002007,4.864983346195884,21,Charmettes / Bellecombe,44.0,True,CIL Bellecombe - Hôpital des Charmettes - Eglise,,Validé
+291,Monté,"72, Montée de l'Observance",,69389.0,Lyon 9e Arrondissement,451,9034,45.76787526726326,4.809482869955471,15,Montée de l'Observance,,True,Logements,,En projet ou en cours de validation
+292,Monté,"Face 110, Avenue du 11 novembre 1918",Angle Avenue Gaston Berger,69266.0,Villeurbanne,424,10056,45.779063986341576,4.871496463189616,35,11 Novembre / Gaston Berger,56.0,True,Campus de la Doua - Resto U - Logements étudiants - Itinéraire cyclable,,Validé
+293,Monté,"82, Rue de Verdun",,69266.0,Villeurbanne,450,10125,45.77922165471459,4.898699041931419,15,Verdun / Petit Roulet,,True,Quartier St Jean,,Validé
+294,Monté,"35, Avenue Rockefeller",,69383.0,Lyon 3e Arrondissement,340,3024,45.74129879910695,4.885521277418793,21,Rockefeller / Esquirol,24.0,True,Tram T2 - Ecole d'infirmière - Itinéraire cyclable - Hôpital Natécia,,Validé
+295,Monté,"Face au 25, Rue Claude Veyron",Angle Boulevard des Tchécoslovaques,69387.0,Lyon 7e Arrondissement,453,7050,45.74550278164703,4.8579751335421495,15,Veyron / Tchécoslovaques,,True,Lycée - Logements,,Validé
+296,Monté,"38, Rue Antoine Primat",,69266.0,Villeurbanne,457,10022,45.758192146380175,4.895645255172603,15,Primat / Ducroize,,True,Quartier,,Validé
+297,Monté,"4, Rue Aristide Bruant",,69259.0,Vénissieux,458,16008,45.696609894593,4.870249815429239,10,Vénissieux - Bruant / Cagne,,True,"Ecole de Musique, cinéma, logements",,En projet ou en cours de validation
+298,Monté,Avenue Gisèle Halimi,,69256.0,Vaulx-en-Velin,462,12006,45.78358465992743,4.911737601462757,15,Vaulx - Médiathèque,,False,Quartier - Médiathèque,,En projet ou en cours de validation
+299,Monté,"2, Avenue Marcel Houel",Angle Rue Gambetta,69259.0,Vénissieux,455,16009,45.69631921015031,4.884082903213512,15,Vénissieux - Mairie,,True,Médiathèque de Vénissieux Lucie Aubrac,,Validé
+300,Monté,"Face 23, Rue des Martyrs de la Résistance",,69259.0,Vénissieux,456,16010,45.69320311017314,4.873916455291146,15,Vénissieux - Martyrs de la Résistance,,True,Complexe Sportif Delaune,,Validé
+301,Monté,Rue De La Rochette,Angle Allée de Crest,69199,Saint-Fons,459,17006,45.69480201689549,4.8564344121131775,15,Saint Fons - Rochette / Crest,,True,"Logements, collège",,En projet ou en cours de validation
+302,Monté,Rue De La Garde,Angle Rue des Aqueducs,69385.0,Lyon 5e Arrondissement,461,5056,45.75939623049801,4.791372489630978,15,Garde / Aqueducs,,True,Logements,,Validé
+303,Monté,"80, Quai Charles de Gaulle",,69386.0,Lyon 6e Arrondissement,90,6043,45.78471068032332,4.851929513645389,32,Cité Internationale - Cinéma,43.0,True,Cité Internationale - Cinémas - Parc de la Tête d'Or,,Validé
+304,Monté,Place de Trion,Angle rue des Fossés de Trion,69385.0,Lyon 5e Arrondissement,366,5007,45.75790630892378,4.813134952810746,16,Place de Trion,7.0,True,Place de Trion - St Just - Commerces,,Validé
+305,Monté,"85, Rue d'Inkermann",,69386.0,Lyon 6e Arrondissement,95,6017,45.76393602444904,4.865913254455727,30,Lafayette / Inkermann,,True,Centre ville,,Validé
+306,Monté,"83, Quai Charles de Gaulle",Côté Allée Alchille Lignon,69386.0,Lyon 6e Arrondissement,430,6036,45.78388161430034,4.852140403416399,23,Musée d'Art Contemporain,36.0,True,Cité internationale - Parc de la Tête d'Or,,Validé
+307,Monté,"Face 8, Quai Claude Bernard",,69387.0,Lyon 7e Arrondissement,280,7034,45.75361070537691,4.838220972403206,31,Piscine du Rhône,34.0,True,Piscine du Rhône,,Validé
+308,Monté,"5, Rue Dunoir",,69383.0,Lyon 3e Arrondissement,358,3017,45.76092139065722,4.845193598695001,37,Saxe / Dunoir,,True,Centre ville,,Validé
+309,Monté,Avenue de Birmingham,Tunnel Mode doux de la Croix-Rousse Ouest,69384.0,Lyon 4e Arrondissement,359,4026,45.77463110981901,4.8134162571604,20,Birmingham,26.0,True,,,Validé
+310,Monté,"1, Rue Roger Radisson",,69385.0,Lyon 5e Arrondissement,460,5052,45.76198906922107,4.8213853069511,15,Fourvière,,True,Fourvière,,Validé
+311,Monté,"Face 28, Quai Jules Courmont",,69382.0,Lyon 2e Arrondissement,360,2018,45.75741752550352,4.83706237202871,50,Hôtel Dieu / Pont de la Guillotière,18.0,True,Hôtel Dieu - Commerces - Pont de la Guillotière,,Validé
+312,Monté,"3, Avenue Aristide Briand",En face de l'entrée de la mairie,69266.0,Villeurbanne,333,10027,45.766833142114685,4.880115119435788,26,Mairie de Villeurbanne,27.0,True,Mairie de Villeurbanne - TNP - Itinéraire cyclable,,Validé
+313,Monté,Quai André Lasagne,Entrée Est du Tube Mode Doux,69381.0,Lyon 1er Arrondissement,365,1037,45.772926620631885,4.837269544068437,20,Chazette Lassagne,,True,Tube mode doux,,Validé
+314,Monté,"Face 2, Rue Tissot",Angle Rue de Bourgogne,69389.0,Lyon 9e Arrondissement,225,9006,45.777295537389335,4.803311744565665,16,Théâtre Nouvelle Génération,6.0,True,Maillage - Théâtre,,Validé
+315,Monté,"230, Cours Emile Zola",Angle Rue de France,69266.0,Villeurbanne,197,10012,45.76806160405784,4.887138393532365,16,Zola / France,12.0,True,IUT - Maison des sports - Maison de l'image - Centre culturel,,Validé
+316,Monté,"24, Allée Pierre de Coubertin",,69387.0,Lyon 7e Arrondissement,160,7020,45.724348355140485,4.826821430588419,26,Parc de Gerland,20.0,True,Parc de Gerland - Palais des Sports,,Validé
+317,Monté,"Face 16, Place Carnot",Coté Sud/Est de la place,69382.0,Lyon 2e Arrondissement,388,2004,45.75009964334345,4.828051501355156,18,Perrache / Carnot,4.0,True,Gare routière - Gare SNCF- Métro A - Commerces,,Validé
+318,Monté,"176, Cours Emile Zola",Angle Rue Paul Verlaine,69266.0,Villeurbanne,76,10011,45.7692607494558,4.880640925632642,16,Gratte-Ciel,11.0,True,Métro A - Itinéraire cyclable,,Validé
+319,Monté,"74, Rue de la Villette",,69383.0,Lyon 3e Arrondissement,376,3094,45.757787880503,4.8614973648418855,38,Villette,94.0,True,Etablissements publics - Bureaux,,Validé
+320,Monté,"Face 48, Cours Aristide Briand",,69034.0,Caluire-et-Cuire,112,11002,45.78547076445852,4.847842122293557,20,Caluire - Saint-Clair,2.0,True,Commerces - Centre de quartier,,Validé
+321,Monté,Place Jean Macé,Angle Rue Jaboulay,69387.0,Lyon 7e Arrondissement,167,7004,45.74656017304797,4.842341258091612,30,Mairie du 7ème,4.0,True,Métro B - Tram T2 - Gare SNCF - Coeur quartier - Mairie,,Validé
+322,Monté,"Face115, Avenue Lacassagne",Angle Rue Feuillat,69383.0,Lyon 3e Arrondissement,371,3086,45.74956270681449,4.875933402968507,16,Feuillat / Lacassagne,86.0,True,Maillage - Stade,,Validé
+323,Monté,"126, Rue Pierre Corneille",Angle Rue Servient,69383.0,Lyon 3e Arrondissement,379,3031,45.759980959086576,4.844489675489049,13,Corneille / Servient,31.0,True,Tram T1,,Validé
+324,Monté,"2, Place Francisque Regaud",,69382.0,Lyon 2e Arrondissement,362,2016,45.763076929584365,4.834286688347047,12,Place Regaud,16.0,True,Maillage - Commerces - Centre ville,,Validé
+325,Monté,"95, Boulevard Pinel",,69383.0,Lyon 3e Arrondissement,364,3090,45.74191154912509,4.8939591141013725,20,Vinatier,90.0,True,Hôpital le Vinatier,,Validé
+326,Monté,"8, Avenue Tony Garnier",Angle Rue Pierre Riboulet,69387.0,Lyon 7e Arrondissement,244,7013,45.7308422388848,4.823740406765396,20,Halle Tony Garnier,13.0,True,Halle Tony Garnier - Entreprises,,Validé
+327,Monté,2 Boulevard Du Général De Gaulle,,69149.0,Oullins,463,20004,45.71824100233174,4.790604464727863,15,Oullins - De Gaulle / Kennedy,,True,Logements,,En projet ou en cours de validation
+328,Monté,"29, Avenue Franklin Roosevelt",,69275.0,Décines-Charpieu,464,13002,45.7649307985734,4.937237963024499,15,Décines - Tramway Roosevelt,,True,Tramway,,En projet ou en cours de validation
+329,Monté,"1, Place Antonin Poncet",,69382.0,Lyon 2e Arrondissement,368,2008,45.7567623213206,4.833927396653385,40,Place Antonin Poncet,8.0,True,"Métro A, D - Poste centrale - Commerces - Centre ville",,Validé
+330,Monté,"3, Place Charles Hernu", ,69266.0,Villeurbanne,83,10006,45.77022909366623,4.863019828763158,46,Charpennes,6.0,True,"Métro A, B - Tram T2 - Centre quartier - Itinéraire cyclable",,Validé
+331,Monté,Avenue du Rhône,Esplanade de la gare routière,69149.0,Oullins,29,20001,45.71697593764375,4.814061491419509,40,Oullins - Gare,,True,Gare d'Oullins,,Validé
+332,Monté,Rue Stéphane Déchant,Parking face à l'Aquarium,69142.0,La Mulatière,10,21001,45.7273693332942,4.814635476619837,24,La Mulatière - Aquarium,,True,Aquarium,,Validé
+333,Monté,"Face 158, Avenue Roger Salengro",,69266.0,Villeurbanne,15,10031,45.78064416330815,4.883497016736273,22,Croix Luizet,31.0,True,Centre quartier,,Validé
+334,Monté,"113, Rue de Saint-Cyr",,69194.0,Saint-Didier-au-Mont-d'Or,8,26001,45.79157367507502,4.808534635343921,17,St Didier,,True, ,,Validé
+335,Monté,Place Jules Grandclément,,69259.0,Vénissieux,51,16004,45.71971196477412,4.888535366263417,25,Vénissieux - Parilly,,True,Parc de Parilly - Métro D,,Validé
+336,Monté,"Face 2, Rue du Professeur Emile Bouvier",Angle rue du 8 Mai 1945,69266.0,Villeurbanne,55,10039,45.77946431214808,4.89158095142912,16,Bouvier,39.0,True,Coeur quartier,,Validé
+337,Monté,"39, Avenue Roger Salengro",,69266.0,Villeurbanne,70,10120,45.776246381101856,4.871637165235601,15,Salengro / Descartes,120.0,True,Maillage,,Validé
+338,Monté,"166, Rue du 4 Août 1789",,69266.0,Villeurbanne,63,10117,45.76456133242553,4.89235938590328,22,La Perralière,117.0,True,Centre de quartier - Commerces,,Validé
+339,Monté,"Face 10, Place de la Paix",,69266.0,Villeurbanne,73,10016,45.75207356660152,4.914669324044022,17,Place de la Paix,16.0,True,Maillage - Espace public - Centre quartier,,Validé
+340,Monté,"25, Rue des Charmettes",Angle cours Emile Zola,69266.0,Villeurbanne,50,10046,45.770687044775286,4.867346309521095,23,Charmettes / Zola,46.0,True,Maillage - Arrêt C3,,Validé
+341,Monté,"Face 145, Rue Anatole France",Angle Zola / France / L'Herminier,69266.0,Villeurbanne,65,10059,45.76884214158678,4.884292078824015,13,Anatole France / Zola,59.0,True,Stade de la Viabert - Centre commercial - Itnéraire cyclable,,Validé
+342,Monté,"1, Avenue du Docteur Georges Lévy",,69259.0,Vénissieux,77,16002,45.71939880583599,4.854801576235106,18,Vénissieux - Levy / Vienne,,True,Centre nautique,,Validé
+343,Monté,"34-36, Place des Maisons Neuves",,69266.0,Villeurbanne,108,10024,45.75596706557341,4.877413647677223,23,Maisons Neuves,24.0,True,Centre quartier - Itinéraire cyclable,,Validé
+344,Monté,"25, Avenue Maréchal de Saxe",Angle Place Edgar Quinet,69386.0,Lyon 6e Arrondissement,149,6005,45.76539621526448,4.84467776931757,23,Place Edgar Quinet,5.0,True,Coeur quartier - Lycée,,Validé
+345,Monté,"46, Quai Saint Vincent",Angle Rue de la Martinière,69381.0,Lyon 1er Arrondissement,382,1013,45.76821831660954,4.827621704471155,11,Martinière,13.0,True,Maillage ,,Validé
+346,Monté,Place des Rendez-Vous,Face Rue Jules Ferry,69088.0,Fontaines-sur-Saône,53,28002,45.83540599978868,4.845700000188561,20,Fontaines S/S - Gambetta,,True,,,Validé
+347,Monté,"313, Route de Vienne",,69259.0,Vénissieux,132,8051,45.72414205393608,4.854176443415111,20,Hôpital Saint-Jean de Dieu,51.0,True,Hôpital Saint Jean de Dieu - logements colllectifs,,Validé
+348,Monté,"2, Avenue Salvador Allende",Angle Promenade du Lys Orangé,69266.0,Villeurbanne,140,10004,45.77622907553396,4.862620625520225,10,Tonkin,4.0,True,Centre quartier - Médiathèque - Collège du Tonkin,,Validé
+349,Monté,"Face 74, Boulevard du 11 Novembre 1918",,69266.0,Villeurbanne,141,10038,45.77903057466618,4.866862900995372,23,Condorcet,38.0,True,Tram T1 - Campus de la Doua - Itinéraire cyclable,,Validé
+350,Monté,"24, Avenue Gaston Berger",,69266.0,Villeurbanne,147,10102,45.78098478165094,4.871207714608578,30,Doua / Gaston Berger,102.0,True,Campus de la Doua - Tram T1 - Itinéraires cyclables,,Validé
+351,Monté,"112, Rue de la Poudrette",,69266.0,Villeurbanne,185,10015,45.757882954088885,4.921141711792207,18,Poudrette / Musset,,True,,,Validé
+352,Monté,"103, Cours Emile Zola ", ,69266.0,Villeurbanne,186,10061,45.77084230811873,4.8726157733046405,17,République,61.0,True,Métro A,,Validé
+353,Monté,"7, Place Gilbert Boissier",,69256.0,Vaulx-en-Velin,181,12005,45.78626834360841,4.926872984219631,20,Vaulx - Village,,True,Commerces - Centre village,,Validé
+354,Monté,"Face 6, Avenue de Bel Air",,69266.0,Villeurbanne,236,10114,45.757914350722814,4.9107987932571575,20,Bel Air / Les Brosses,114.0,True,Tram T3 - Piste cyclable,,Validé
+355,Monté,Place Saint-Luc,Angle Boulevard des Provinces,69202.0,Sainte-Foy-lès-Lyon,220,22001,45.74956540522228,4.800896024092041,15,Ste Foy - Place St Luc,,True,Commerces,,Validé
+356,Monté,"22, Rue Colin",,69266.0,Villeurbanne,201,10089,45.77449846469076,4.874052326694335,15,Colin / Perroncel,89.0,True,Commerces - Itinéraire Cyclable,,Validé
+357,Monté,"49, Rue de la Poudrette",,69256.0,Vaulx-en-Velin,217,12001,45.7608131947003,4.9206039456886055,25,Vaulx - La Soie,1.0,True,Pôle multimodal de la Soie - Tram T3 / Métro A,,Validé
+358,Monté,"241, Rue du 4 Août 1789",Angle Cours Emile Zola,69266.0,Villeurbanne,249,10088,45.76607553015395,4.898610485416707,19,4 août 1789 / Pressensé,88.0,True,Maillage,,Validé
+359,Monté,"28, Rue Louis Fort",,69266.0,Villeurbanne,265,10091,45.77474953644127,4.887971317287408,16,Château Gaillard / Fort,91.0,True,Maillage,,Validé
+360,Monté,"Face 44, Rue de la Feyssine",,69266.0,Villeurbanne,275,10043,45.78300744684813,4.890804221786365,20,Salengro / Feyssine,43.0,True,Itinéraires cyclables,,Validé
+361,Monté,"4, Rue Etienne Dolet",,69149.0,Oullins,301,20002,45.7140014190428,4.806544334111354,18,Oullins - Mairie,,True,Mairie,,Validé
+362,Monté,"37, Rue du 4 Août 1789",,69266.0,Villeurbanne,311,10019,45.76448293919055,4.87792062630033,30,4 Août / Racine,,True, ,,Validé
+363,Monté,"141, Cours Emile Zola",Angle Passage Rey,69266.0,Villeurbanne,306,10074,45.770097843283175,4.876690417532801,19,Zola / Passage Rey,74.0,True,Salle de gym des Gratte-Ciel - Centre-ville,,Validé
+364,Monté,"5, Rue de Verdun",,69029.0,Bron,304,14004,45.733945529647485,4.908720681867942,23,Bron - Mairie,,True,Mairie Bron,,Validé
+365,Monté,"16, Rue Michel Rocard",,69266.0,Villeurbanne,346,10044,45.7809196995896,4.889570179907409,25,Rocard Octavie,,True,,,Validé
+366,Monté,"Face 5, Avenue Albert Einstein",,69266.0,Villeurbanne,352,10002,45.78221650547041,4.876955025005409,55,INSA,2.0,True,Campus de la Doua - INSA - Tram T2,,Validé
+367,Monté,Quai Jean Lavergne,Face Place de la Libération,69068.0,Couzon-au-Mont-d'Or,268,32001,45.845997686774574,4.83241213375528,17,Couzon - Centre,,True,Centre de Couzon au Mont d'Or,,Validé
+368,Monté,"6, Quai Pasteur",Angle Place Ampère,69143.0,Neuville-sur-Saône,138,34001,45.87660899132925,4.8386237264876,20,Neuville - Quai Pasteur,,True,Centre ville,,Validé
+369,Monté,"33, Boulevard Eugène Réguillon",,69266.0,Villeurbanne,324,10071,45.76152796989293,4.895690219961361,15,Lycée Marie Curie,71.0,True,Lycée - Quartier dense,,Validé
+370,Monté,"1, Rue Georges Courteline",,69266.0,Villeurbanne,134,10124,45.77721325686388,4.876703992219636,24,Salengro / Yvonne,,True,T6N,,Validé
+371,Monté,"Face 24, Rue Antonin Perrin",,69266.0,Villeurbanne,247,10063,45.75792354817798,4.885250679163925,34,Perrin / Jean Jaurès,63.0,True,Quartier Grandclément,,Validé
+372,Monté,"32, Cours André Philip",,69266.0,Villeurbanne,189,10075,45.77232152460392,4.866554414305085,23,Gabriel Péri,75.0,True,Hôpital,,Validé
+373,Monté,"33, Avenue Antoine de Saint-Exupéry",Face Rue Raymond Terracher,69266.0,Villeurbanne,144,10060,45.75885897106522,4.878749576462601,15,Saint Exupéry,60.0,True,Commerces - Marché - Centre de quartier,,Validé
+374,Monté,"6, Avenue Gabriel Péri",,69199.0,Saint-Fons,89,17002,45.70823358732804,4.855185573816531,11,St Fons - 4 chemins,,True,Centre ville,,Validé
+375,Monté,"122, Avenue de l'Hippodrome",,69286.0,Rillieux-la-Pape,308,30002,45.81672169991421,4.888655588496017,20,Rillieux - Loup Pendu,,True,Piscine Origami,,Validé
+376,Monté,"45, Rue Edouard Vaillant",Angle Rue Alexis Perroncel,69266.0,Villeurbanne,317,10080,45.77539881029868,4.880263091257814,17,Vaillant / Perroncel,80.0,True,Maillage - Itinéraire cyclable,,Validé
+377,Monté,"22, Rue de la Marne",Angle Place Gaillard Romanet,69029.0,Bron,343,14001,45.7429248383715,4.908621338411987,13,Bron - Centre Nautique,,True,Centre Nautique de Bron - Stade Pierre Duboeuf - MJC Louis Aragon,,Validé
+378,Monté,"Face 192, Rue Anatole France",Angle Rue Francis de Pressensé,69266.0,Villeurbanne,370,10086,45.76982948961712,4.889631350176211,10,Anatole France,86.0,True,Maillage - Itinéraire cyclable,,Validé
+379,Monté,"109, Route de Genas",Angle Rue Antonin Perrin,69266.0,Villeurbanne,363,10112,45.7544406099066,4.88526932867135,32,Place de la Reconnaissance,112.0,True,Tran T3 - MJC - Espace public - Maillage,,Validé
+380,Monté,"312, Cours du 3ème Millénaire",,69290.0,Saint-Priest,386,15001,45.71441038412167,4.931014315670896,20,St Priest - Parc Technologique,,True,Parc technologique - Tram T2,,Validé
+381,Monté,"Face 31, Rue des Bienvenus",,69266.0,Villeurbanne,415,10083,45.7778649152709,4.884244285772838,15,Château Gaillard / Bienvenus,83.0,True,,,Validé
+382,Monté,"70, Avenue Maréchal de Lattre de Tassigny",Contre Allée François Mitterrand,69029.0,Bron,397,14003,45.736674424258965,4.91710048563201,25,Bron - Place Curial,,True,Tram T5,,Validé
+383,Monté,"75, Rue Pasteur",,69034.0,Caluire-et-Cuire,405,11004,45.79158966144588,4.843331316106841,15,Caluire - Branly / Pasteur,,True,Quartier Montessuy,,Validé
+384,Monté,"Face 15, Rue Pierre Baratin",,69266.0,Villeurbanne,412,10013,45.764945643892666,4.901015274530836,20,Cusset,13.0,True,Métro A,,Validé
+385,Monté,Place Steven Spielberg,Angle 8ème Rue Cité Berliet,69290.0,Saint-Priest,419,15002,45.70598197250517,4.900984850609104,20,St Priest - Cité Berliet,,True,Cité Berliet,,Validé
+386,Monté,"276, Cours Emile Zola",,69266.0,Villeurbanne,423,10058,45.76709094508305,4.892428641384554,22,Métro Flachet,58.0,True,Métro A,,Validé
+387,Monté,"40, Cours Tolstoï",,69266.0,Villeurbanne,335,10025,45.76364070304086,4.87314108788078,16,Totem,25.0,True,Centre Quartier - Institut d'Art Contemporain,,Validé
+388,Monté,"Face au 40, Avenue Jean Jaurès",,69199.0,Saint-Fons,426,17001,45.71234480151196,4.855274123133999,27,St Fons - Arsenal,,True,Quartier Arsenal,,Validé
+389,Monté,"5, Route de Lyon",Au rond point,69191.0,Saint-Cyr-au-Mont-d'Or,106,25001,45.799791427592815,4.819601868755274,12,St Cyr,,True,Saint Cyr - Saint Didier,,Validé
+390,Monté,Boulevard Irène Joliot Curie,,69259.0,Vénissieux,372,16003,45.71545295206763,4.87823506147984,25,Vénissieux - Joliot Curie / Sembat,,True,Centre commercial - Tram T4,,Validé
+391,Monté,"Face au 27, Route de Lyon",,69143.0,Neuville-sur-Saône,385,34002,45.87087624618698,4.839598537318636,15,Neuville - Stade,,True,Stade,,Validé
+392,Monté,Place Ennemond Romand,Angle Rue du Professeur Roux,69259.0,Vénissieux,93,16001,45.72581100667153,4.858334158766782,20,Vénissieux - Place Romand,,True,,,Validé
+393,Monté,"Face 244, Route de Genas",,69266.0,Villeurbanne,374,10041,45.752917545458416,4.89889917271775,16,Kimmerling,41.0,True,Maillage,,Validé
+394,Monté,"118, Cours Tolstoï",,69266.0,Villeurbanne,361,10018,45.76188543258863,4.880975681650607,24,Tolstoï / Florian,18.0,True,Itinéraire cyclable,,Validé
+395,Monté,"5, Avenue Pierre Mendès France",,69029.0,Bron,389,14005,45.72215367985904,4.91506347504296,30,Bron - Université,,True,Université Louis Lumière Lyon 2,,Validé
+396,Monté,"22, Rue Voltaire",,69152.0,Pierre-Bénite,383,18001,45.70325585711876,4.821200376127679,15,Pierre Bénite - Europe,,True,Centre ville,,Validé
+397,Monté,"5, Rue Paul Vaillant Couturier",,69199.0,Saint-Fons,350,17003,45.70851714070772,4.862049776698956,18,St Fons - Théâtre,,True,Théatre - nouveau quartier,,Validé
+398,Monté,"Face 2, Rue de la Poudrette",Angle Avenue de Böhlen,69256.0,Vaulx-en-Velin,429,12002,45.76440031307614,4.919275785947365,20,Vaulx - Poudrette / La Soie,70.0,True,Centre commercial Carré de Soie,,Validé
+399,Monté,"54, Rue Jean Jaurès",,69266.0,Villeurbanne,395,10023,45.757676628594005,4.883441155269027,25,Jaurès / Saint Exupéry,,True,Collège,,Validé
+400,Monté,Rue Joseph Blein,Devant la bibliothèque,69256.0,Vaulx-en-Velin,431,12003,45.75706976008222,4.92732161126566,15,Vaulx - Bibliothèque,,True,Bibliothèque - centre social et culturel,,Validé
+401,Monté,"12, Rue Baudin", ,69266.0,Villeurbanne,433,10010,45.76509272817565,4.905124686843483,16,Baudin / Zola,49.0,True,Caserne pompiers - Collège,,Validé
+402,Monté,"419, Cours Emile Zola",Parc relais TCL Laurent Bonnevay,69266.0,Villeurbanne,243,10014,45.765206246824825,4.90980198181742,28,Laurent Bonnevay / Astroballe,14.0,True,Gare routière - Métro A,,Validé
+403,Monté,"11, Avenue Piaton",Angle rue Condorcet,69266.0,Villeurbanne,314,10007,45.77421517843546,4.867504213135081,20,Piaton / Condorcet,7.0,True,Centre quartier - Itinéraire cyclable,,Validé
+404,Monté,"48b, Cours Suchet",,69382.0,Lyon 2e Arrondissement,384,2027,45.74610307359189,4.825605393944587,20,Perrache Est,,True,"Gare SNCF - Tram T1, T2",,Validé
+405,Monté,"100, Cours Charlemagne",,69382.0,Lyon 2e Arrondissement,406,2007,45.74261150057181,4.820471670305504,37,Patinoire Charlemagne,7.0,True,"Patinoire Charlemagnes - Tram T1, T2",,Validé
+406,Monté,"Face 9, Rue des Cuirassiers",,69383.0,Lyon 3e Arrondissement,414,3010,45.75898613328861,4.8562143376377644,34,Part-Dieu / Cuirassiers,,True,Centre commercial - Sociétés,,Validé
+407,Monté,"25, Rue d'Austerlitz",,69384.0,Lyon 4e Arrondissement,142,4041,45.775045238094535,4.835512448007523,18,Boussanges / Austerlitz,41.0,True,Renforcement 4022 - Commerces,,Validé
+408,Monté,"63, Rue de Trion",,69385.0,Lyon 5e Arrondissement,400,5001,45.75730032193787,4.815090011309527,23,Place Varillon (Funiculaire St Just),1.0,True,Funiculaire - Habitations - Commerces,,Validé
+409,Monté,"51, Avenue Georges Pompidou",Angle Rue Louis Jasseron,69383.0,Lyon 3e Arrondissement,410,3021,45.75947339661219,4.86934289665943,20,Place de la Ferrandière,21.0,True,Maillage,,Validé
+410,Monté,"183, Rue André Philip",,69383.0,Lyon 3e Arrondissement,425,3083,45.76159092583704,4.850481162649521,18,Les Halles,83.0,True,Commerces - Coeur de quartier - Halles de Lyon,,Validé
+411,Monté,"Face 18, Rue Joseph Serlin",,69381.0,Lyon 1er Arrondissement,117,1002,45.76760203502725,4.8365720721237615,41,Opéra,2.0,True,"Opéra -  Métro A, C - Mairie centrale",,Validé
+412,Monté,"4, Place Sathonay",,69381.0,Lyon 1er Arrondissement,152,1003,45.76929800209085,4.830123718701326,22,Place Sathonay,3.0,True,Pentes,,Validé
+413,Monté,Quai Romain Rolland,Face au Palais de Justice,69385.0,Lyon 5e Arrondissement,254,5006,45.762009352085066,4.828869803446583,17,Quai Romain Rolland,6.0,True,Vieux Lyon,,Validé
+414,Monté,"3, Place Meissonnier",,69381.0,Lyon 1er Arrondissement,329,1005,45.76608506687655,4.83283358305682,16,Meissonnier,5.0,True,Maillage - Centre ville,,Validé
+415,Monté,"Face 1, Place Marcel Bertone",,69384.0,Lyon 4e Arrondissement,285,4005,45.77761737652232,4.834500942111278,12,Place Bertone,5.0,True,Coeur quartier,,Validé
+416,Monté,Quai Jean-Baptiste Simon,"Angle Place Carnot, Face Pont Général Leclerc",69088.0,Fontaines-sur-Saône,110,28001,45.83246571834778,4.848779232683831,20,Fontaines S/S - Quai Simon,,True, ,,Validé
+417,Monté,"12, Quai Saint Antoine",,69382.0,Lyon 2e Arrondissement,88,2040,45.7633583865824,4.832091940710831,23,St Antoine / Grenette,,True,Commerces - Centre ville,,Validé
+418,Monté,"60, Boulevard des Canuts",Angle Rue Jacques-Louis Hénon,69384.0,Lyon 4e Arrondissement,416,4004,45.77975536713156,4.827648401087957,22,Hénon,4.0,True,Métro C - Itinéraire cyclable,,Validé
+419,Monté,Boulevard Marius Vivier-Merle,Angle Boulevard Eugène Deruelle,69383.0,Lyon 3e Arrondissement,404,3019,45.76325444203309,4.857512154766766,39,Part Dieu / Deruelle,,True,Centre commercial - Gare SNCF,,Validé
+420,Monté,"1, Rue Jean de Tournes",,69382.0,Lyon 2e Arrondissement,428,2014,45.76075169507551,4.834304228535888,26,Jacobins,14.0,True,Coeur quartier - Commerces,,Validé
+421,Monté,"Face 12, Boulevard des Canuts",,69384.0,Lyon 4e Arrondissement,327,4017,45.77602649138848,4.829621096225884,17,Place des Tapis,17.0,True,Coeur de quartier,,Validé
+422,Monté,"34, Cours de la Liberté",,69383.0,Lyon 3e Arrondissement,394,3016,45.75939863388015,4.842297616229328,9,Liberté / Part-Dieu,16.0,True,Tram T1 - Commerces - Itinéraire cyclable,,Validé
+423,Monté,"98, Rue du Président Edouard Herriot",,69382.0,Lyon 2e Arrondissement,223,2024,45.75901895289236,4.833895146035451,24,Herriot / Maupin,24.0,True,Commerces - Centre ville,,Validé
+424,Monté,"5, Rue Professeur Paul Sisley",Angle Rue du Dauphiné,69383.0,Lyon 3e Arrondissement,114,3100,45.752486432190686,4.868750600228422,17,Sisley /  Dauphiné,100.0,True,Jardin public - Tram T3,,Validé
+425,Monté,"Face 38, Rue Philippe de Lassalle",Angle Rue Pillement,69384.0,Lyon 4e Arrondissement,203,4014,45.77740132407556,4.820524159101204,13,Philippe de Lassalle / Pillement,14.0,True,Maillage,,Validé
+426,Monté,"Face 102, Rue de la Technologie",,69266.0,Villeurbanne,354,10001,45.78564714415781,4.882357799897009,30,IUT / Feyssine,1.0,True,Campus de la Doua - IUT- Tram T2,,Validé
+427,Monté,"Face 30, Montée des Carmélites",,69381.0,Lyon 1er Arrondissement,33,1034,45.77002123678064,4.829297779073855,16,Carmélites,34.0,True,Pentes - Jardin public,,Validé
+428,Monté,"65, Rue Mazenod",,69383.0,Lyon 3e Arrondissement,248,3088,45.75881520506402,4.846453225948515,16,Place Guichard,88.0,False,Métro B - Bourse du travail,,Validé
+429,Monté,"35, Quai Charles de Gaulle",Côté Allée Achille Lignon,69386.0,Lyon 6e Arrondissement,192,6042,45.78481447981898,4.856503323071327,28,Cité Internationale / Résidence Hôtelière,42.0,True,Cité internationale - Résidence hôtelière - Parc de la Tête d'Or,,Validé
+430,Monté,"Face 18, Quai du Commerce",,69389.0,Lyon 9e Arrondissement,105,9014,45.7820631990779,4.810478278467586,30,Quai du Commerce,14.0,True,Itinéraires cyclables - Stade,,Validé
+431,Monté,"49, Boulevard des Belges",,69386.0,Lyon 6e Arrondissement,11,6006,45.77332703829208,4.851989498915179,15,Boulevard des Belges,6.0,True,Parc de la Tête d'Or,,Validé
+432,Monté,"Face 5, Place Puvis de Chavannes",Angle rue Vendôme,69386.0,Lyon 6e Arrondissement,92,6012,45.77175708559077,4.844603635748358,10,Place Puvis de Chavannes,12.0,True,Centre ville,,Validé
+433,Monté,"11, Cours Franklin Roosevelt",Angle Rue Vendôme,69386.0,Lyon 6e Arrondissement,226,6004,45.76885136977671,4.844764938842582,20,Foch,4.0,True,Métro A - Coeur quartier,,Validé
+434,Monté,"Face 14, Avenue Verguin",Devant l'entrée du parc,69386.0,Lyon 6e Arrondissement,294,6003,45.77291139746561,4.856326781358822,20,Avenue Verguin,3.0,True,Parc de la Tête d'Or - Lycée du Parc,,Validé
+435,Monté,"5, Place Maréchal Lyautey",,69386.0,Lyon 6e Arrondissement,422,6022,45.76937305777388,4.842317953887165,20,Place Maréchal Lyautey,22.0,True,Centre ville,,Validé
+436,Monté,"Face 149, Rue Boileau",,69386.0,Lyon 6e Arrondissement,54,6040,45.76405761273627,4.849930546075753,15,Les Halles,40.0,True,Halles de Lyon,,Validé
+437,Monté,"4, Place Jules Ferry",,69386.0,Lyon 6e Arrondissement,75,6001,45.76690958028361,4.858992167312562,16,Gare des Brotteaux,1.0,True,Places Jules Ferry - Métro B - Parking - Restaurants,,Validé
+438,Monté,"Face 42, Rue Paul Cazeneuve",Angle Square René Picod,69388.0,Lyon 8e Arrondissement,136,8037,45.73402009181408,4.862902379294158,19,Cazeneuve,37.0,True,Quartier d'habitation - Lycée - Tram T4,,Validé
+439,Monté,"Face 69, Rue Audibert et Lavirotte",,69388.0,Lyon 8e Arrondissement,156,8056,45.735795232076704,4.856812818671199,18,Delore / Audibert et Lavirotte,56.0,True,Maillage,,Validé
+440,Monté,"Face 98, Rue Villon",Angle Avenue Berthelot,69388.0,Lyon 8e Arrondissement,266,8034,45.73830233572538,4.862732783204483,13,Berthelot / Villon,34.0,True,Tram T2,,Validé
+441,Monté,"95, Avenue de l'Europe",,69388.0,Lyon 8e Arrondissement,279,8010,45.74005164652071,4.859416412882197,20,Place Mendès France,10.0,True,"Tram T4, T2 - Place - Commerces - Logements",,Validé
+442,Monté,"Face 77b, Rue Marietton",,69389.0,Lyon 9e Arrondissement,7,9043,45.776085042893605,4.799737660970007,20,Marietton Ouest,43.0,True,Maillage,,Validé
+443,Monté,"53, Rue du Chapeau Rouge",Place de la Rhodiacéta,69389.0,Lyon 9e Arrondissement,27,9040,45.770990641162186,4.8075804142518965,12,Place Rhodiacéta,40.0,True,ANPE - Bureaux - Enseignement secondaire - Logements,,Validé
+444,Monté,"45, Rue du Bourbonnais",Angle Rue Docteur Horand et Avenue Joannès Masset,69389.0,Lyon 9e Arrondissement,222,9020,45.77346456599928,4.800287929393639,12,Bourbonnais,20.0,True,Maillage - Logements,,Validé
+445,Monté,"17, Avenue Joannès Masset",Angle Rue Saint Pierre de Vaise,69389.0,Lyon 9e Arrondissement,231,9044,45.770476920081926,4.800900483241144,16,Masset / Saint-Pierre de Vaise,44.0,True,Activités - Maillage,,Validé
+446,Monté,"115, Rue Tronchet",Angle Boulevard Anatole France,69386.0,Lyon 6e Arrondissement,49,6024,45.77073715464022,4.856752177467546,10,Tronchet / Anatole France,24.0,True,Lycée du Parc - Piscine Tronchet,,Validé
+447,Monté,"Face 99, Rue Bugeaud",Place Cardinal Jean Villot,69386.0,Lyon 6e Arrondissement,150,6039,45.76669219389977,4.852085981246816,20,Garibaldi / Bugeaud,,True,Centre ville,,Validé
+448,Monté,"33, Boulevard des Brotteaux",,69386.0,Lyon 6e Arrondissement,315,6045,45.76636731128431,4.8570018759142295,15,Brotteaux / Vauban,45.0,True,Commerces - Maillage,,Validé
+449,Monté,"49, Avenue du Point du Jour",,69385.0,Lyon 5e Arrondissement,413,5016,45.756193928676254,4.802711079169013,13,Point du Jour / Granges,16.0,True,Mairie de Lyon 5ème,,Validé
+450,Monté,"13, Quai Romain Rolland",Angle Rue de la Baleine,69385.0,Lyon 5e Arrondissement,30,5026,45.76338371026079,4.829011477421789,14,Rue de la Baleine,26.0,True,Vieux Lyon,,Validé
+451,Monté,"28, Boulevard des Belges",Angle Rue Morellet,69386.0,Lyon 6e Arrondissement,288,6020,45.774504873006585,4.848477101851376,15,Musée Guimet,20.0,True,Musée Guimet - Itinéraire cyclable,,Validé
+452,Monté,"Face 5, Place d'Helvétie",,69386.0,Lyon 6e Arrondissement,174,6025,45.77343629369956,4.84193156843882,30,Place d'Helvétie,,True,Parc de la Tête d'Or - Quai,,Validé
+453,Monté,"100, Rue Francis de Pressensé",,69266.0,Villeurbanne,264,10121,45.77189272628973,4.877070711766253,28,Parc du Centre,121.0,True,Parc du centre - Itinéraire cyclable,,Validé
+454,Monté,"241, Grande Rue de la Guillotière",,69387.0,Lyon 7e Arrondissement,409,7051,45.74794302318976,4.856322557611706,30,Guillotière / Nicolaï,,True,,,Validé
+455,Monté,"19, Cours Gambetta",,69383.0,Lyon 3e Arrondissement,341,7001,45.75505961970647,4.843854661521992,24,Place Gabriel Péri,1.0,True,Métro D - Tram T1 - Coeur quartier - Commerces,,Validé
+456,Monté,"59, Boulevard Pinel",,69383.0,Lyon 3e Arrondissement,421,3091,45.74828546736706,4.896969881491363,19,Hôpital Neurologique,91.0,True,Centre hospitalier - Itinéraire cyclable,,Validé
