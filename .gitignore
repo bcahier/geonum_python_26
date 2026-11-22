@@ -136,11 +136,16 @@ solutions/
 tmp/
 models/
 data/meteo*
-
+data/*geojson
+data/*parquet
+data/quartiers_lyon*
 data/mesures/*
 data/velov_historique/
 data/velov_dispo_*.csv
 notebooks/tp_corr.ipynb
+data/stations_velov.csv
+data/velov_stations.csv
 
 notebooks_26/00_*
-notebooks_26_corrections/
+notebooks_25/
+notebooks_26_corrections/02*
